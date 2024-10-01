@@ -1,0 +1,769 @@
+Loading config file: C:\Users\thebo\Documents\My Games\OpenMW/openmw.cfg
+Loading config file: C:\TES3MP/openmw.cfg
+TES3MP client 0.8.1 (Windows 64-bit)
+Protocol version: 10
+Oldest compatible commit hash: 68954091c5
+------------------------------------------------------------
+
+OpenMW version 0.47.0
+Using default (English) font encoding.
+[2024-10-01 11:18:43] [INFO]: tes3mp started
+Loading settings file: C:\TES3MP/tes3mp-client-default.cfg
+[2024-10-01 11:18:43] [WARN]: Received ID_CONNECTION_REQUESTED_ACCEPTED from 26.206.182.45|25565
+idx: 0	checksum: 7B6AF5B9	file: C:/TES3MP/mwenhanced/Stock Game Folder/Data Files\Morrowind.esm
+idx: 1	checksum: F481F334	file: C:/TES3MP/mwenhanced/Stock Game Folder/Data Files\Tribunal.esm
+idx: 2	checksum: 43DD2132	file: C:/TES3MP/mwenhanced/Stock Game Folder/Data Files\Bloodmoon.esm
+idx: 3	checksum: 81362B3F	file: C:/TES3MP/mwenhanced/mods/Patch for Purists\Patch for Purists.esm
+idx: 4	checksum: C97D1C25	file: C:/TES3MP/mwenhanced/mods/Tamriel_Data\Tamriel_Data.esm
+idx: 5	checksum: A9F95887	file: C:/TES3MP/mwenhanced/mods/OAAB_Data\OAAB_Data.esm
+idx: 6	checksum: 71933E2E	file: C:/TES3MP/mwenhanced/mods/Solstheim - Tomb of the Snow Prince\Solstheim Tomb of The Snow Prince.esm
+idx: 7	checksum: 66218BCD	file: C:/TES3MP/mwenhanced/mods/Tamriel Rebuilt\TR_Mainland.esm
+idx: 8	checksum: E9D95D3F	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares-base.esm
+idx: 9	checksum: 528E5A0B	file: C:/TES3MP/mwenhanced/mods/Friends and Foes\F&F_base.esm
+idx: 10	checksum: F720879C	file: C:/TES3MP/mwenhanced/mods/Skyrim Home Of The Nords\Sky_Main.esm
+idx: 11	checksum: 1827C542	file: C:/TES3MP/mwenhanced/mods/Distant Seafloor for OpenMW\distant_seafloor_2.00.esm
+idx: 12	checksum: 9840327D	file: C:/TES3MP/mwenhanced/mods/Rise of House Telvanni\Rise of House Telvanni.esm
+idx: 13	checksum: 8827AD77	file: C:/TES3MP/mwenhanced/mods/Book Rotate\Book Rotate.esm
+idx: 14	checksum: 2E10D796	file: C:/TES3MP/mwenhanced/mods/Patch for Purists\Patch for Purists - Book Typos.ESP
+idx: 15	checksum: 7AC1FB23	file: C:/TES3MP/mwenhanced/mods/Patch for Purists\Patch for Purists - Semi-Purist Fixes.ESP
+idx: 16	checksum: 7586EC9C	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Siege at Firemoth.esp
+idx: 17	checksum: DA06A998	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_TR_npcs.esp
+idx: 18	checksum: 2CB429A4	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_TR_npcs_purist.esp
+idx: 19	checksum: FD4050B0	file: C:/TES3MP/mwenhanced/mods/Turn Normal Grass and Kelp into Groundcover\hm-grass-mainland-GROUNDCOVER.esp
+idx: 20	checksum: 7E12A7E7	file: C:/TES3MP/mwenhanced/mods/Turn Normal Grass and Kelp into Groundcover\hm-grass-mainland-CONTENT.esp
+idx: 21	checksum: D06456A5	file: C:/TES3MP/mwenhanced/mods/Tamriel Rebuilt\TR_Hotfix.esp
+idx: 22	checksum: 15E2A4E9	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Morrowind Anti-Cheese.ESP
+idx: 23	checksum: F84D1B7F	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\Beautiful cities of morrowind.esp
+idx: 24	checksum: 8A17FC94	file: C:/TES3MP/mwenhanced/mods/Turn Normal Grass and Kelp into Groundcover\hm-grass-vvardenfell-GROUNDCOVER.esp
+idx: 25	checksum: FA0BFFBB	file: C:/TES3MP/mwenhanced/mods/Turn Normal Grass and Kelp into Groundcover\hm-grass-vvardenfell-CONTENT.esp
+idx: 26	checksum: 5808AE76	file: C:/TES3MP/mwenhanced/mods/FMGS - Unique Items Compilation\FM - Unique Items v1.0.ESP
+idx: 27	checksum: 7A265BBA	file: C:/TES3MP/mwenhanced/mods/FM Unique Items - Patch for Purists\FM - Unique Items v1.0 - PfP.ESP
+idx: 28	checksum: 4596D7B2	file: C:/TES3MP/mwenhanced/mods/OAAB Saplings\OAAB_Saplings.ESP
+idx: 29	checksum: 881A91B0	file: C:/TES3MP/mwenhanced/mods/LDM - Context Matters\LDM - Context Matters 1.7.ESP
+idx: 30	checksum: F6D37256	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Uvirith's Legacy_3.53.ESP
+idx: 31	checksum: 8FB9ABE0	file: C:/TES3MP/mwenhanced/mods/Alchemical Hustle\AH_Toxicity_Hard.ESP
+idx: 32	checksum: D1FDAF2	file: C:/TES3MP/mwenhanced/mods/Alchemical Hustle\AH_Toxicity_Spell_Effect.ESP
+idx: 33	checksum: 85B03B76	file: C:/TES3MP/mwenhanced/mods/Book Rotate\Book Rotate - Tribunal v5.3.esp
+idx: 34	checksum: E84AC9D2	file: C:/TES3MP/mwenhanced/mods/Religions Elaborated\Religions Elaborated.esp
+idx: 35	checksum: FAB79750	file: C:/TES3MP/mwenhanced/mods/Book Rotate\Book Rotate - Morrowind v1.1.esp
+idx: 36	checksum: 54FAB076	file: C:/TES3MP/mwenhanced/mods/New Bow of Shadows\New Bow of Shadows.esp
+idx: 37	checksum: E6383E3	file: C:/TES3MP/mwenhanced/mods/New Bow of Shadows\New Bow of Shadows (MW).ESP
+idx: 38	checksum: 409CCEB0	file: C:/TES3MP/mwenhanced/mods/New Lords Mail\New Lord's Mail.ESP
+idx: 39	checksum: 1B53033F	file: C:/TES3MP/mwenhanced/mods/New Lords Mail\New Lord's Mail (MW).ESP
+idx: 40	checksum: 6BB056C3	file: C:/TES3MP/mwenhanced/mods/Nocturnal Moths\Nocturnal Moths - TLD.ESP
+idx: 41	checksum: 3AA88CD5	file: C:/TES3MP/mwenhanced/mods/RemirosGroundcoverTOTSPPluginFixed\Rem-TOTSP.esp
+idx: 42	checksum: 8D4D3D27	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_Solstheim.esp
+idx: 43	checksum: 95530928	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_VM_TR.esp
+idx: 44	checksum: 622B1717	file: C:/TES3MP/mwenhanced/mods/Vurts Groundcover for OpenMW\Vurt's Groundcover - BC, AI, WG, GL.esp
+idx: 45	checksum: 5836440	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_SHOTN_npcs.esp
+idx: 46	checksum: DF83F206	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_SHOTN_npcs_purist.esp
+idx: 47	checksum: 69E256EE	file: C:/TES3MP/mwenhanced/mods/Skyrim Home Of The Nords\Sky_Main_Grass.esp
+idx: 48	checksum: 72ADC029	file: C:/TES3MP/mwenhanced/mods/TriangleTooth's Ecology Mod - Fish Addon\Ttooth Ecology - Fish Addon.esp
+idx: 49	checksum: BA5A96EA	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Rem_WG.esp
+idx: 50	checksum: 9BE77FFD	file: C:/TES3MP/mwenhanced/mods/Tamriel Rebuilt\TR_Preview.ESP
+idx: 51	checksum: AC011B29	file: C:/TES3MP/mwenhanced/mods/Tamriel Rebuilt\TR_Travels_Preview_and_Mainland.ESP
+idx: 52	checksum: 669A1EC3	file: C:/TES3MP/mwenhanced/mods/Fabulous Hlaalo Manor\Fabulous-Hlaalo-Manor-Fabulous-Clutter.ESP
+idx: 53	checksum: E74E193C	file: C:/TES3MP/mwenhanced/mods/Fabulous Hlaalo Manor\Fabulous-Hlaalo-Manor-Fabulous-Fireplace.ESP
+idx: 54	checksum: DB8EE249	file: C:/TES3MP/mwenhanced/mods/Fabulous Hlaalo Manor - Ralen's House\Fabulous-Hlaalo-Manor-Fabulous-Guards.ESP
+idx: 55	checksum: 8796D008	file: C:/TES3MP/mwenhanced/mods/CarryOnTweaks\CarryOnTweaks.omwaddon
+idx: 56	checksum: 943FFA8B	file: C:/TES3MP/mwenhanced/mods/ncgdmw\ncgdmw_alt_start.omwaddon
+idx: 57	checksum: BEAE51F6	file: C:/TES3MP/mwenhanced/mods/ncgdmw\ncgdmw_starwind.omwaddon
+idx: 58	checksum: AD83722C	file: C:/TES3MP/mwenhanced/mods/Real Disposition\PR Real Disposition Hard.esp
+idx: 59	checksum: 9DF84C58	file: C:/TES3MP/mwenhanced/mods/Real Disposition\PR Real Disposition Light.esp
+idx: 60	checksum: C418BAE6	file: C:/TES3MP/mwenhanced/mods/Real Disposition\PR Real Disposition Renegade.esp
+idx: 61	checksum: AC011B29	file: C:/TES3MP/mwenhanced/mods/Tamriel Rebuilt\TR_Travels.ESP
+idx: 62	checksum: AC011B29	file: C:/TES3MP/mwenhanced/mods/Tamriel Rebuilt\TR_OldTravels.ESP
+idx: 63	checksum: B94A03B8	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_TR_containers.esp
+idx: 64	checksum: 4E07F6F0	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_SHOTN_traders.esp
+idx: 65	checksum: D954698F	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_SHOTN_containers.esp
+idx: 66	checksum: 390084AC	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_lists_TD.ESP
+idx: 67	checksum: 66F98E8D	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_lists_OAAB.ESP
+idx: 68	checksum: AA7313C4	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_lists_hold.ESP
+idx: 69	checksum: 619578E0	file: C:/TES3MP/mwenhanced/mods/Better Clothes Complete\Better Clothes Complete.ESP
+idx: 70	checksum: 25A6E5D7	file: C:/TES3MP/mwenhanced/mods/Audiobooks of Morrowind\AudiobooksOfMorrowind.ESP
+idx: 71	checksum: 80FA190A	file: C:/TES3MP/mwenhanced/mods/BetterClothesCompleteShoeFix\BC_shoe_fix.esp
+idx: 72	checksum: 2FD4FD5F	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\BCOM_Tribal_Erabenimsun.ESP
+idx: 73	checksum: D3B6F90F	file: C:/TES3MP/mwenhanced/mods/Better Robes\Better Robes.ESP
+idx: 74	checksum: FBBF36FA	file: C:/TES3MP/mwenhanced/mods/Better Robes - Updated Tamriel Rebuilt Patch\Better Robes TR.esp
+idx: 75	checksum: 66FBF079	file: C:/TES3MP/mwenhanced/mods/Better Fatigue Usage\BetterFatigueUsage.ESP
+idx: 76	checksum: 3161AE9A	file: C:/TES3MP/mwenhanced/mods/Stuporstar's Books for Wares\ST_Books_Wares_rotate.ESP
+idx: 77	checksum: 9705521E	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\ROHT_2_0_8.ESP
+idx: 78	checksum: 923E284C	file: C:/TES3MP/mwenhanced/mods/TriangleTooth's Ecology Mod - Fish Addon\Ttooth Ecology - Fish Addon Anthology.ESP
+idx: 79	checksum: 4E4ABD3A	file: C:/TES3MP/mwenhanced/mods/TriangleTooth's Ecology Mod\Ttooth Ecology.esp
+idx: 80	checksum: FF2598E3	file: C:/TES3MP/mwenhanced/mods/Solstheim - Tomb of the Snow Prince\TOTSP TD Content Integration.esp
+idx: 81	checksum: 736900D5	file: C:/TES3MP/mwenhanced/mods/Bloodmoon Rebalance\Bloodmoon Rebalance.esp
+idx: 82	checksum: 1D1D3ED6	file: C:/TES3MP/mwenhanced/mods/Solstheim - Tomb of the Snow Prince\TOTSP TD Content Integration - Spiders.esp
+idx: 83	checksum: D59BF370	file: C:/TES3MP/mwenhanced/mods/Solstheim - Tomb of the Snow Prince\TOTSP_Forceful_Travel_NPC_Override.ESP
+idx: 84	checksum: A32E49BF	file: C:/TES3MP/mwenhanced/mods/Solstheim - Tomb of the Snow Prince\TOTSP_Patch_for_Purists_4.0.2.esp
+idx: 85	checksum: 3457E1AC	file: C:/TES3MP/mwenhanced/mods/Trueflame Re-forged\Trueflame Reforged.ESP
+idx: 86	checksum: 74A68FFE	file: C:/TES3MP/mwenhanced/mods/At Home Alchemy - Finished - Optional BTBGI\Syc_AtHomeAlchemy - Finished.esp
+idx: 87	checksum: E30E6907	file: C:/TES3MP/mwenhanced/mods/Tamriel_Data Graveyard - Deprecations un-deprecated\Tamriel_Data_Graveyard.ESP
+idx: 88	checksum: B6EDAAA7	file: C:/TES3MP/mwenhanced/mods/The Dream is the Door\The Dream is the Door.ESP
+idx: 89	checksum: 81AC1C6D	file: C:/TES3MP/mwenhanced/mods/Fabulous Hlaalo Manor - Ralen's House\Fabulous-Hlaalo-Manor-Ralens-Clutter.ESP
+idx: 90	checksum: 47F9B884	file: C:/TES3MP/mwenhanced/mods/Fabulous Hlaalo Manor\Fabulous-Hlaalo-Manor.ESP
+idx: 91	checksum: 61C4517A	file: C:/TES3MP/mwenhanced/mods/Face of the Hortator\Face of the Hortator.esp
+idx: 92	checksum: A37464A8	file: C:/TES3MP/mwenhanced/mods/Flies\Flies.ESP
+idx: 93	checksum: 37EE6884	file: C:/TES3MP/mwenhanced/mods/FMI - Caius Big Package\FMI_CaiusBigPackage.ESP
+idx: 94	checksum: DB448BD0	file: C:/TES3MP/mwenhanced/mods/Ghastly Glowyfence\ghastly gg.esp
+idx: 95	checksum: 55C84B82	file: C:/TES3MP/mwenhanced/mods/Hircine's Artifacts\Hircine's Artifacts.ESP
+idx: 96	checksum: F8A2D9F4	file: C:/TES3MP/mwenhanced/mods/Dynamic Distant Buildings for OpenMW\HM_DDD_Strongholds_R_v1.0.esp
+idx: 97	checksum: 2D62444E	file: C:/TES3MP/mwenhanced/mods/Distant Seafloor for OpenMW\distant seafloor TOTSP 2.2.2 patch.esp
+idx: 98	checksum: 4B020F82	file: C:/TES3MP/mwenhanced/mods/OAAB Grazelands\OAAB_Grazelands.ESP
+idx: 99	checksum: 813BAB11	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\REM_AC.ESP
+idx: 100	checksum: 6377194	file: C:/TES3MP/mwenhanced/mods/Holamayan Island\Holamayan Island.esp
+idx: 101	checksum: 3D404A59	file: C:/TES3MP/mwenhanced/mods/Lower First Person Sneak Mode\LowerFirstPersonSneak.ESP
+idx: 102	checksum: BE36209B	file: C:/TES3MP/mwenhanced/mods/Solstheim - Tomb of the Snow Prince\Missing snow armor.esp
+idx: 103	checksum: C93F52DC	file: C:/TES3MP/mwenhanced/mods/Multiple Teleport Marking (OpenMW and Uvirith)\MultiMarkOMW_UL3.51Plugin.ESP
+idx: 104	checksum: F0B69532	file: C:/TES3MP/mwenhanced/mods/TriangleTooth's Ecology Mod\Ttooth Ecology - BMR Patch.ESP
+idx: 105	checksum: A879D79C	file: C:/TES3MP/mwenhanced/mods/TriangleTooth's Ecology Mod\Ttooth Ecology - TR Patch.ESP
+idx: 106	checksum: 7667BAFC	file: C:/TES3MP/mwenhanced/mods/Beware the Sixth House (Sixth House Overhaul)\Beware the Sixth House.ESP
+idx: 107	checksum: CF9BB57B	file: C:/TES3MP/mwenhanced/mods/Divine Dagoths\Bob's Diverse Dagoths - DNGDR - Hostile Gilvoth.esp
+idx: 108	checksum: D84B403A	file: C:/TES3MP/mwenhanced/mods/Divine Dagoths\Bob's Diverse Dagoths - DNGDR.esp
+idx: 109	checksum: 323B4DB6	file: C:/TES3MP/mwenhanced/mods/Divine Dagoths\Bob's Diverse Dagoths - Hostile Gilvoth.esp
+idx: 110	checksum: CCE2719F	file: C:/TES3MP/mwenhanced/mods/Cave Drips\Cave Drips.ESP
+idx: 111	checksum: A5916894	file: C:/TES3MP/mwenhanced/mods/Comfy Pillow for a restful sleep\ComfyPillowForARestfulSleep.ESP
+idx: 112	checksum: 1F5D2E2A	file: C:/TES3MP/mwenhanced/mods/OpenMW Containers Animated\Containers Animated.esp
+idx: 113	checksum: 60A0EFFC	file: C:/TES3MP/mwenhanced/mods/New Beast Bodies by Liztail\New Argonian Bodies - Clean.esp
+idx: 114	checksum: CDAF8C51	file: C:/TES3MP/mwenhanced/mods/New Beast Bodies by Liztail\New Khajiit Bodies - Clean.esp
+idx: 115	checksum: 5A27DE18	file: C:/TES3MP/mwenhanced/mods/New Fists of Randagulf\New Randagulf's Fists.ESP
+idx: 116	checksum: D78D1AA1	file: C:/TES3MP/mwenhanced/mods/Nocturnal Moths\Nocturnal Moths - Vanilla.ESP
+idx: 117	checksum: 8D187E6F	file: C:/TES3MP/mwenhanced/mods/Signposts Retextured\PB_SignpostsRetextured.esp
+idx: 118	checksum: 1B476F11	file: C:/TES3MP/mwenhanced/mods/Pickpocket Rebalance (OpenMW Compatible)\Pickpocket Rebalance 0.15 Mod and 100% chance max.ESP
+idx: 119	checksum: A5FF2E9D	file: C:/TES3MP/mwenhanced/mods/Projectile Overhaul - Modular\Projectile Overhaul - All Modules.esp
+idx: 120	checksum: 8F8CF376	file: C:/TES3MP/mwenhanced/mods/Projectile Overhaul - Modular\Projectile Overhaul - Faster Magic Missiles.esp
+idx: 121	checksum: 40CC0EC5	file: C:/TES3MP/mwenhanced/mods/Projectile Overhaul - Modular\Projectile Overhaul - Faster Projectiles.esp
+idx: 122	checksum: 9E54F72	file: C:/TES3MP/mwenhanced/mods/Projectile Overhaul - Modular\Projectile Overhaul - Recovery Chance.esp
+idx: 123	checksum: FEEC9282	file: C:/TES3MP/mwenhanced/mods/Projectile Overhaul - Modular\Projectile Overhaul - Skyrim Style Weapons.esp
+idx: 124	checksum: 5C36349F	file: C:/TES3MP/mwenhanced/mods/Quill_of_Feyfolken_\Quill of Feyfolken 2.0.esp
+idx: 125	checksum: 413292F8	file: C:/TES3MP/mwenhanced/mods/Riekling Fix and Expansion\Riekling Fix & Expansion.ESP
+idx: 126	checksum: 7F37BC34	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Yet Another Guard Diversity - Full Cephalopod.ESP
+idx: 127	checksum: C58B1C4F	file: C:/TES3MP/mwenhanced/mods/Fireflies\RP_fireflies.ESP
+idx: 128	checksum: 126C741	file: C:/TES3MP/mwenhanced/mods/Sanctus Shrine\Sanctus Shrine.esp
+idx: 129	checksum: 721DE1C9	file: C:/TES3MP/mwenhanced/mods/Sensible Races and Birthsigns\SensibleBirthsigns.esp
+idx: 130	checksum: 16867917	file: C:/TES3MP/mwenhanced/mods/Sensible Races and Birthsigns\SensibleRaces.esp
+idx: 131	checksum: 326A009	file: C:/TES3MP/mwenhanced/mods/Tamriel Rebuilt\TR_Factions.esp
+idx: 132	checksum: 769AEC97	file: C:/TES3MP/mwenhanced/mods/Silt Strider Animation Restored\Silt Strider Animation Restored.ESP
+idx: 133	checksum: D784593A	file: C:/TES3MP/mwenhanced/mods/Speechcraft Rebalance\SpeechcraftBalance.ESP
+idx: 134	checksum: 8F81E6DA	file: C:/TES3MP/mwenhanced/mods/The Madstone\The Madstone.ESP
+idx: 135	checksum: 71B02DD7	file: C:/TES3MP/mwenhanced/mods/Unique Jewelry Redone\Unique Jewelry Redone.ESP
+idx: 136	checksum: 699C7B6	file: C:/TES3MP/mwenhanced/mods/FMI - Unique Lore Friendly Cave Rats\Unique_CaveRats.ESP
+idx: 137	checksum: CEB19E48	file: C:/TES3MP/mwenhanced/mods/Unique Tavern Signs for Tamriel Rebuilt\Unique_Tavern_Signs_for_Tamriel_Rebuilt_v2.ESP
+idx: 138	checksum: DAF93FA4	file: C:/TES3MP/mwenhanced/mods/Ebony Mail (Replacer)\EbonyMailReplacer.ESP
+idx: 139	checksum: E4CBE1A1	file: C:/TES3MP/mwenhanced/mods/Eltonbrand Replacer\Eltonbrand Replacer.ESP
+idx: 140	checksum: 1A5C0821	file: C:/TES3MP/mwenhanced/mods/ZEF Focus Magicka\ZEF_FocusMagicka_1.2.1.esp
+idx: 141	checksum: AE68E775	file: C:/TES3MP/mwenhanced/mods/Action Camera Swap\action-camera-swap.omwscripts
+idx: 142	checksum: B04614A9	file: C:/TES3MP/mwenhanced/mods/Attend Me\AttendMe.omwscripts
+idx: 143	checksum: 71A15F30	file: C:/TES3MP/mwenhanced/mods/CarryOn\CarryOn.omwaddon
+idx: 144	checksum: C17C9050	file: C:/TES3MP/mwenhanced/mods/CarryOnTweaks\CarryOnTweaks-FatigueOnly.omwaddon
+idx: 145	checksum: B39811F0	file: C:/TES3MP/mwenhanced/mods/Faction Service\Charge Version - Faction Bed Service v1.3.omwaddon
+idx: 146	checksum: CD657A86	file: C:/TES3MP/mwenhanced/mods/omwfx\Cinematic Boken DoF.omwscripts
+idx: 147	checksum: 44B8C466	file: C:/TES3MP/mwenhanced/mods/DA_Sobitur_TRIngred_Compat\DA_Sobitur_TRIngred_Compat.omwaddon
+idx: 148	checksum: 78AD41FF	file: C:/TES3MP/mwenhanced/mods/Devilish Vampire Overhaul\Devilish_Vampire_Overhaul.omwscripts
+idx: 149	checksum: 70707722	file: C:/TES3MP/mwenhanced/mods/EbonheartUnderworks OpenMW Patch\EbonheartUnderworksMOMW-TO.omwaddon
+idx: 150	checksum: 7D4E7F21	file: C:/TES3MP/mwenhanced/mods/momw-camera\momw-camera.omwscripts
+idx: 151	checksum: FD980E48	file: C:/TES3MP/mwenhanced/mods/mtrPermanentQuestCorpsesRandomizer OpenMW omwaddon - Randomizer for Location of Permanent Corpses of Imperial Taxman Processus Vitellius and Skooma Dealer Ernil Omoran Associated with Quests\mtrPQCR.omwaddon
+idx: 152	checksum: A5EEBB64	file: C:/TES3MP/mwenhanced/mods/Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul\Of Eggs and Dwarves.omwscripts
+idx: 153	checksum: 8124FEED	file: C:/TES3MP/mwenhanced/mods/Practical Necromancy (OpenMW)\Practical Necromancy.omwaddon
+idx: 154	checksum: 1FC52C27	file: C:/TES3MP/mwenhanced/mods/Practical Necromancy Lich Night Eye Remover\LichNEFix.omwaddon
+idx: 155	checksum: D2F8471A	file: C:/TES3MP/mwenhanced/mods/Pursuit (OpenMW)\pursuit_for_omw.omwscripts
+idx: 156	checksum: E3D87D47	file: C:/TES3MP/mwenhanced/mods/Quill of Feyfolken 2.0-OpenMW-Patch\Quill of Feyfolken 2.0-OpenMW-Patch.omwaddon
+idx: 157	checksum: 45E8F90A	file: C:/TES3MP/mwenhanced/mods/Solthas Combat Pack (OpenMW Lua)\SolCombatPack.omwscripts
+idx: 158	checksum: 30C7F6C7	file: C:/TES3MP/mwenhanced/mods/TimeScale Change - OpenMW\TimescaleChange.omwaddon
+idx: 159	checksum: 81420AE8	file: C:/TES3MP/mwenhanced/mods/UL_OpenMW\UL_3.5_OpenMW_1.3_Add-on.omwaddon
+idx: 160	checksum: DEE9107D	file: C:/TES3MP/mwenhanced/mods/UL_3.5_TR_21.01_Add-on\UL_3.5_TR_21.01_Add-on.omwaddon
+idx: 161	checksum: 7ECFCA30	file: C:/TES3MP/mwenhanced/mods/Real Disposition\PR Real Disposition Base.esp
+idx: 162	checksum: 9DC0EE8A	file: C:/TES3MP/mwenhanced/mods/Dagoth Ur Welcomes You\1.2dagothspartyCLEANED.esp
+idx: 163	checksum: 4220016B	file: C:/TES3MP/mwenhanced/mods/Almalexia Voice\Almalexia_Voicev1.esp
+idx: 164	checksum: 473782FA	file: C:/TES3MP/mwenhanced/mods/Friends and Foes\F&F_TR.ESP
+idx: 165	checksum: 34CDB2FF	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_RR_TR.esp
+idx: 166	checksum: 3EBCD346	file: C:/TES3MP/mwenhanced/mods/Wares Ultimate\Wares_TR_traders.esp
+idx: 167	checksum: 9809B0DD	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\BCOM_pathgrid_reset.ESP
+idx: 168	checksum: 32A08C14	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Improved Inns Expanded.esp
+idx: 169	checksum: 309CE44E	file: C:/TES3MP/mwenhanced/mods/OAAB - Shipwrecks patch\OAAB - Shipwrecks.ESP
+idx: 170	checksum: 49548B9D	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\OAAB - Foyada Mamaea.ESP
+idx: 171	checksum: F52B1B43	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Rem_AI.esp
+idx: 172	checksum: 4A619DB3	file: C:/TES3MP/mwenhanced/mods/Know Thy Ancestors\Know Thy Ancestors.ESP
+idx: 173	checksum: 652A91D	file: C:/TES3MP/mwenhanced/mods/OAAB Dwemer Pavements\OAAB Dwemer Pavements.ESP
+idx: 174	checksum: FE58EC32	file: C:/TES3MP/mwenhanced/mods/Join the Dark Brotherhood - Dark Brotherhood Faction Mod\Dark Brotherhood.ESP
+idx: 175	checksum: FC452E9D	file: C:/TES3MP/mwenhanced/mods/Expansions Integrated\Expansions Integrated.esp
+idx: 176	checksum: AEB62CC0	file: C:/TES3MP/mwenhanced/mods/Expansions Integrated\Expansions Integrated - Fewer BM Creatures.esp
+idx: 177	checksum: 4B339969	file: C:/TES3MP/mwenhanced/mods/Expansions Integrated\Tribunal Integrated.esp
+idx: 178	checksum: 3A041D24	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Imperial Legion Expansion.esp
+idx: 179	checksum: F481380B	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Rem_BC.esp
+idx: 180	checksum: D7AC9A12	file: C:/TES3MP/mwenhanced/mods/Uncharted Artifacts\Uncharted Artifacts.esp
+idx: 181	checksum: B35F44D4	file: C:/TES3MP/mwenhanced/mods/Mistify\mistify.ESP
+idx: 182	checksum: CE150FD5	file: C:/TES3MP/mwenhanced/mods/Vivec Voice Addon - Refreshed\Vivec_Voice_addon TRIBUNAL - Refreshed - OpenMW.esp
+idx: 183	checksum: B1EAABC7	file: C:/TES3MP/mwenhanced/mods/Vivec Voice Addon Tribunal Version\Vivec_Voice_addon TRIBUNAL.esp
+idx: 184	checksum: BA1B70B9	file: C:/TES3MP/mwenhanced/mods/Building_Up_Uviriths_Legacy\Building Up Uvirith's Legacy1.1.ESP
+idx: 185	checksum: 48EDEE17	file: C:/TES3MP/mwenhanced/mods/Building_Up_Uviriths_Legacy\Fast Eddie Fix v .0001.esp
+idx: 186	checksum: 4E682DA4	file: C:/TES3MP/mwenhanced/mods/The Rise of the Tribe Unmourned\The Rise of the Tribe Unmourned.esp
+idx: 187	checksum: 27A904D4	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Welcome to the Arena! v6.7.esp
+idx: 188	checksum: A3DD7B26	file: C:/TES3MP/mwenhanced/mods/Shipyards of Vvardenfell (Sadrith Mora - Seyda Neen - Gnaar Mok)\Shipyards of Vvardenfell.esp
+idx: 189	checksum: F05E5B49	file: C:/TES3MP/mwenhanced/mods/OAAB Tel Mora\OAAB_Tel Mora.ESP
+idx: 190	checksum: 674CC8DD	file: C:/TES3MP/mwenhanced/mods/Immersive Mournhold\Immersive Mournhold.esp
+idx: 191	checksum: 68C36236	file: C:/TES3MP/mwenhanced/mods/Official Plugins Naturalized\Siege at Firemoth Naturalized.esp
+idx: 192	checksum: 5522EBAE	file: C:/TES3MP/mwenhanced/mods/TracklessGrazelandNoTextureFixDep\TracklessGrazeland.esp
+idx: 193	checksum: BEAF85ED	file: C:/TES3MP/mwenhanced/mods/Sobitur Facility\DA_Sobitur_Facility_Clean.ESP
+idx: 194	checksum: 59F391E7	file: C:/TES3MP/mwenhanced/mods/alvazir's various patches\PCD_PFP_Compat.esp
+idx: 195	checksum: E603A548	file: C:/TES3MP/mwenhanced/mods/Imperial Factions\Imperial Factions.ESP
+idx: 196	checksum: 74BC8F35	file: C:/TES3MP/mwenhanced/mods/Tales from the Ashlands - The Great Hive Baan Binif\Baan_Binif.ESP
+idx: 197	checksum: A9FF1364	file: C:/TES3MP/mwenhanced/mods/Know The Ancestors - Tamriel Rebuilt\Know Thy Ancestors - TR.ESP
+idx: 198	checksum: 69AA0F32	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Rem_GL_Trackless_GL.esp
+idx: 199	checksum: 63579F24	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\NPC_Schedule(beta).esp
+idx: 200	checksum: 8827C3F3	file: C:/TES3MP/mwenhanced/mods/OAAB - Tombs and Towers\OAAB - Tombs and Towers.ESP
+idx: 201	checksum: 398CCCC1	file: C:/TES3MP/mwenhanced/mods/Tamriel Rebuilt\TR_Firemoth_Vanilla_patch.esp
+idx: 202	checksum: AB4FDEA8	file: C:/TES3MP/mwenhanced/mods/Dagoth Ur Voice addon v10\Dagoth Ur Voice Addon.esp
+idx: 203	checksum: 1AEAF7BE	file: C:/TES3MP/mwenhanced/mods/Greyed-out dialog\Dialog_Saved.ESP
+idx: 204	checksum: 43F22D61	file: C:/TES3MP/mwenhanced/mods/Darknut's Lighted Dwemer Towers\DN-Lighted_Dwemer_Towers.ESP
+idx: 205	checksum: EC2845D4	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Concept_Arts_plantations.esp
+idx: 206	checksum: D4D9798D	file: C:/TES3MP/mwenhanced/mods/TriangleTooth's Missing Characters\Ttooth's Missing NPCs - Nolus.ESP
+idx: 207	checksum: D8461403	file: C:/TES3MP/mwenhanced/mods/Magical lights for Telvanni\Magical Lights.ESP
+idx: 208	checksum: C78167EE	file: C:/TES3MP/mwenhanced/mods/TriangleTooth's Missing Characters\Ttooth's Missing NPCs - No Nolus.ESP
+idx: 209	checksum: C4DB6455	file: C:/TES3MP/mwenhanced/mods/FMI - Service Refusal and Contraband\FMI_ServiceRefusal_Contraband.ESP
+idx: 210	checksum: AADA2AD6	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\GITD_Telvanni_Dormers.ESP
+idx: 211	checksum: FE9C8E6	file: C:/TES3MP/mwenhanced/mods/OAAB - The Ashen Divide\OAAB - The Ashen Divide.ESP
+idx: 212	checksum: 2B941CAA	file: C:/TES3MP/mwenhanced/mods/Perfect Scum\PR Perfect Scum.esp
+idx: 213	checksum: 5A0FC32C	file: C:/TES3MP/mwenhanced/mods/Devilish Vampire Overhaul\Devilish_Vampire_Overhaul.ESP
+idx: 214	checksum: D7E075E6	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\BCOM_Suran Expansion.ESP
+idx: 215	checksum: B90DBD25	file: C:/TES3MP/mwenhanced/mods/Total Overhaul Patches\BCOM+GhastlyGG+DynamicDistantBuildingsPatch.esp
+idx: 216	checksum: 51D0FB91	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Ebonheart_Underworks.esp
+idx: 217	checksum: 548DE59B	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Velothi Wall Art.ESP
+idx: 218	checksum: 73C8FA9B	file: C:/TES3MP/mwenhanced/mods/Astrologian's Guild\Astrologians Guild.esp
+idx: 219	checksum: B4945E88	file: C:/TES3MP/mwenhanced/mods/No More Dr. Nerevarine\No more Dr Nerevarine.ESP
+idx: 220	checksum: 571E5607	file: C:/TES3MP/mwenhanced/mods/FMI - Hospitality Papers Expanded\Hospitality_Papers_Expanded_v2.7.esp
+idx: 221	checksum: D24455D6	file: C:/TES3MP/mwenhanced/mods/Investigations at Tel Eurus\Tel_Eurus.esp
+idx: 222	checksum: DC028990	file: C:/TES3MP/mwenhanced/mods/Yet Another Guard Diversity Tamriel Rebuilt Imperials 22.11 Cleaned\Yet Another Guard Diversity - TR.ESP
+idx: 223	checksum: C3F9DA6E	file: C:/TES3MP/mwenhanced/mods/M'Aiq on the Mainland\MaiqMainland.esp
+idx: 224	checksum: 8E3C7564	file: C:/TES3MP/mwenhanced/mods/Nighttime Door Locks\NighttimeDoorLocks-LD 1.1b.esp
+idx: 225	checksum: 24F17638	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\BCOM - Taller Lighthouse.ESP
+idx: 226	checksum: 75CE83BE	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Store Entrance Chimes - Alt Ver.ESP
+idx: 227	checksum: E728D806	file: C:/TES3MP/mwenhanced/mods/Dynamic Distant Buildings for OpenMW\HM_DDD_Ghostfence_v1.0.esp
+idx: 228	checksum: B66A2454	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\TR_BCOM_Patch.ESP
+idx: 229	checksum: BCB8C9F0	file: C:/TES3MP/mwenhanced/mods/Wandering Creature Merchants\wandering_merchants.esp
+idx: 230	checksum: 355A7BE3	file: C:/TES3MP/mwenhanced/mods/Andrano Ancestral Tomb Remastered\AndranoTombRemastered.esp
+idx: 231	checksum: 2EA743F	file: C:/TES3MP/mwenhanced/mods/FMI - Nice to Meet You\FMI_Nice_to_Meet_You.ESP
+idx: 232	checksum: E9525273	file: C:/TES3MP/mwenhanced/mods/Cantons on the Global Map\Cantons_on_the_Global_Map_v1.1.esp
+idx: 233	checksum: 5BAF86E6	file: C:/TES3MP/mwenhanced/mods/Secrets of the Crystal City\SecretsOfTheCrystalCity.esp
+idx: 234	checksum: 6CB5B853	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\BCOM_OpenMW_plazas.ESP
+idx: 235	checksum: E7961003	file: C:/TES3MP/mwenhanced/mods/Friends and Foes\F&F_BCoM.ESP
+idx: 236	checksum: CFF717EC	file: C:/TES3MP/mwenhanced/mods/Mage Robes\Mage Robes.ESP
+idx: 237	checksum: 6A50C1B9	file: C:/TES3MP/mwenhanced/mods/Idle Talk\Idle Talk.ESP
+idx: 238	checksum: DEEA47BF	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\BCOM_Sadrith_Mora_dock_expanded.ESP
+idx: 239	checksum: CEC8C172	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\BCOM_Vanilla Trees_Hlaalu_Plaza.ESP
+idx: 240	checksum: BEA8F1B6	file: C:/TES3MP/mwenhanced/mods/Half11's Misc Mods\Container Ownership.ESP
+idx: 241	checksum: 310D25B9	file: C:/TES3MP/mwenhanced/mods/Guar Stables of Vivec\Guar stables of Vivec.ESP
+idx: 242	checksum: 7ECC86A8	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Bounty Hunter Assignments.ESP
+idx: 243	checksum: 443F69EF	file: C:/TES3MP/mwenhanced/mods/The Grove of Ben'Abi\The Grove of Ben'Abi.ESP
+idx: 244	checksum: 87032B7B	file: C:/TES3MP/mwenhanced/mods/OAAB Pomegranates\OAAB Pomegranates.ESP
+idx: 245	checksum: B335B373	file: C:/TES3MP/mwenhanced/mods/Clear Your Name\Clear Your Name.esp
+idx: 246	checksum: 71D9760	file: C:/TES3MP/mwenhanced/mods/God of Worms\God of Worms.esp
+idx: 247	checksum: 3DD96453	file: C:/TES3MP/mwenhanced/mods/Multiple Teleport Marking (OpenMW and Tamriel Rebuilt)\MultiMarkOMW-1.3-TR2101.esp
+idx: 248	checksum: CA18430D	file: C:/TES3MP/mwenhanced/mods/Book Rotate\Book Rotate - Bloodmoon v5.3.esp
+idx: 249	checksum: E9FA40C3	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\BCOM_Canal_01.ESP
+idx: 250	checksum: BDCDC784	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\BCOM_PfP_patch.ESP
+idx: 251	checksum: 7E7F24B4	file: C:/TES3MP/mwenhanced/mods/Vurts Groundcover for OpenMW\Vurt's Groundcover - Reeds.esp
+idx: 252	checksum: AA69856A	file: C:/TES3MP/mwenhanced/mods/imperial_skirt\imperial_skirt.esp
+idx: 253	checksum: 831B4C35	file: C:/TES3MP/mwenhanced/mods/Justice for Khartag (J.F.K.)\Justice4Khartag.ESP
+idx: 254	checksum: 9AE1F55	file: C:/TES3MP/mwenhanced/mods/Official Plugins Naturalized\Master Index Naturalized.esp
+idx: 255	checksum: AA69856A	file: C:/TES3MP/mwenhanced/mods/imperial_skirt\Clean_imperial_skirt.esp
+idx: 256	checksum: 935A308D	file: C:/TES3MP/mwenhanced/mods/To save a falling wizard (alternate) Fixed For OpenMW and Delta Plugin\LPFR_TSAFW.esp
+idx: 257	checksum: 4056F0C3	file: C:/TES3MP/mwenhanced/mods/Sobitur Facility\DA_Sobitur_Repurposed_1.ESP
+idx: 258	checksum: 4D2E375F	file: C:/TES3MP/mwenhanced/mods/Sobitur Facility\DA_Sobitur_TRIngred_Compat.ESP
+idx: 259	checksum: ECC5C7C7	file: C:/TES3MP/mwenhanced/mods/New Ilunibi\New Ilunibi.ESP
+idx: 260	checksum: A36D65C5	file: C:/TES3MP/mwenhanced/mods/ReadMe - Library of Vivec Overhaul\Library of Vivec Overhaul - Full.esp
+idx: 261	checksum: 973B09EA	file: C:/TES3MP/mwenhanced/mods/fargoths_mountain_hut\fargoths_mountain_hut.esp
+idx: 262	checksum: C8424096	file: C:/TES3MP/mwenhanced/mods/Expansion Delay\Expansion Delay.ESP
+idx: 263	checksum: A67F98A	file: C:/TES3MP/mwenhanced/mods/Official Plugins Naturalized\Area Effect Arrows Naturalized.esp
+idx: 264	checksum: 34A450D9	file: C:/TES3MP/mwenhanced/mods/Wealth Within Measure\WealthWithinMeasure_TR_v1.25.esp
+idx: 265	checksum: E99D9B66	file: C:/TES3MP/mwenhanced/mods/Wealth Within Measure\WealthWithinMeasure_v1.25.esp
+idx: 266	checksum: 6BE0AB8E	file: C:/TES3MP/mwenhanced/mods/On the move - the Ashlander Tent Deluxe remod\On the Move.esp
+idx: 267	checksum: C9E62C44	file: C:/TES3MP/mwenhanced/mods/On the move - the Ashlander Tent Deluxe remod\On the Move_nom.esp
+idx: 268	checksum: 502BFB2E	file: C:/TES3MP/mwenhanced/mods/Official Plugins Naturalized\Helm of Tohan Naturalized.esp
+idx: 269	checksum: 3CE24C81	file: C:/TES3MP/mwenhanced/mods/Aspect of Azura\Aspect of Azura.ESP
+idx: 270	checksum: EC22A700	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\BCOM_rotating_planets_GG.ESP
+idx: 271	checksum: 7CAFF629	file: C:/TES3MP/mwenhanced/mods/Census and Excise Office Faction\Census_and_Excise_Office_Faction.ESP
+idx: 272	checksum: 37CD7B00	file: C:/TES3MP/mwenhanced/mods/Berandas Overhaul\Berandas Overhaul.esp
+idx: 273	checksum: 7791AC2C	file: C:/TES3MP/mwenhanced/mods/Improved Better Skulls\Better Skulls.ESP
+idx: 274	checksum: 43F7B5C3	file: C:/TES3MP/mwenhanced/mods/Tribunal Rebalance\tribunal rebalance.ESP
+idx: 275	checksum: 3C656380	file: C:/TES3MP/mwenhanced/mods/The Corprusarium experience\The_corprusarium_Exp.ESP
+idx: 276	checksum: B7B5AA22	file: C:/TES3MP/mwenhanced/mods/Wandering Umbra\wandering_umbra.ESP
+idx: 277	checksum: 2D873D22	file: C:/TES3MP/mwenhanced/mods/Umbra- Blademaster\Umbra, Blademaster.ESP
+idx: 278	checksum: E47AE6B6	file: C:/TES3MP/mwenhanced/mods/FMBP - Greet Service\Finished Morrowind - CORE PATCH - Part 4 - More Audio Dialogue for Service NPCs.ESP
+idx: 279	checksum: 57603D1B	file: C:/TES3MP/mwenhanced/mods/FMI - NotAllDunmer\FMI_#NotAllDunmer.ESP
+idx: 280	checksum: FE72D434	file: C:/TES3MP/mwenhanced/mods/Frozen in Time\Frozen in Time.esp
+idx: 281	checksum: 163165B4	file: C:/TES3MP/mwenhanced/mods/The Forgotten Shields - Artifacts\TheForgottenShields - Artifacts_NG.esp
+idx: 282	checksum: E0868910	file: C:/TES3MP/mwenhanced/mods/The Forgotten Shields - Artifacts\TheForgottenShields - Artifacts_VN.esp
+idx: 283	checksum: C783DECC	file: C:/TES3MP/mwenhanced/mods/Glow in the Dahrk\GITD_WL_RR_Interiors.esp
+idx: 284	checksum: 8665945B	file: C:/TES3MP/mwenhanced/mods/Glass Glowset\Glowing_Mines.ESP
+idx: 285	checksum: 184613D6	file: C:/TES3MP/mwenhanced/mods/gondoliers_license\gondoliers_license.esp
+idx: 286	checksum: D616F5C2	file: C:/TES3MP/mwenhanced/mods/Greetings for No Lore\Greetings for No Lore.esp
+idx: 287	checksum: 1BE5162	file: C:/TES3MP/mwenhanced/mods/Dynamic Distant Buildings for OpenMW\HM_DDD_Strongholds_H_v1.0.esp
+idx: 288	checksum: F1C8568A	file: C:/TES3MP/mwenhanced/mods/Dynamic Distant Buildings for OpenMW\HM_DDD_Strongholds_T_v1.0.esp
+idx: 289	checksum: F85AC71A	file: C:/TES3MP/mwenhanced/mods/Ald'Ruhn Manor Banners\Manor Banners.ESP
+idx: 290	checksum: E17D2F8C	file: C:/TES3MP/mwenhanced/mods/mtrDwemerPuzzleBoxRandomizer - Randomizer for Location of Dwemer Puzzle Box within Arkngthand associated with Main Quest\mtrDwemerPuzzleBoxRandomizer.ESP
+idx: 291	checksum: 844EDF81	file: C:/TES3MP/mwenhanced/mods/MultiMark - Mysticism Balance\MultiMarkOMW-MysticismBalance-1.1.esp
+idx: 292	checksum: 95D32D78	file: C:/TES3MP/mwenhanced/mods/Multiple Teleport Marking (OpenMW and Skyrim)\MultiMarkOMW_SkyPlugin2021_01_11_(v21.01a).ESP
+idx: 293	checksum: 7CD0DEE	file: C:/TES3MP/mwenhanced/mods/Nastier Camonna Tong\Nasty Camonna Tong.esp
+idx: 294	checksum: A336E9FE	file: C:/TES3MP/mwenhanced/mods/Concept Art Palace (Vivec City)\Concept art palace.ESP
+idx: 295	checksum: C2253538	file: C:/TES3MP/mwenhanced/mods/Vivec Palace Illuminated - REDUX\Vivec Palace Illuminated - REDUX.ESP
+idx: 296	checksum: 222CDDF1	file: C:/TES3MP/mwenhanced/mods/Meteorite Ministry\Meteorite Ministry Palace - Higher.ESP
+idx: 297	checksum: 72D34615	file: C:/TES3MP/mwenhanced/mods/Meteorite Ministry\Meteorite Ministry Temple - Higher.ESP
+idx: 298	checksum: 24F3976C	file: C:/TES3MP/mwenhanced/mods/Meteorite Ministry\Meteorite Ministry Palace.ESP
+idx: 299	checksum: CBC9FA7E	file: C:/TES3MP/mwenhanced/mods/Meteorite Ministry\Meteorite Ministry Temple.ESP
+idx: 300	checksum: 40B6373E	file: C:/TES3MP/mwenhanced/mods/Dome with huge fire OpenMW version\CAP Dome.esp
+idx: 301	checksum: 2E427B40	file: C:/TES3MP/mwenhanced/mods/Samarys Ancestral Tomb Expanded\Samarys Ancestral Tomb Expanded.esp
+idx: 302	checksum: A5081F8F	file: C:/TES3MP/mwenhanced/mods/Sobitur Facility\DA_Sobitur_Quest_Part_2 Clean.esp
+idx: 303	checksum: E7C73868	file: C:/TES3MP/mwenhanced/mods/Sobitur Facility\DA_Sobitur_Quest_Part_1 Clean.esp
+idx: 304	checksum: 6A2BE32D	file: C:/TES3MP/mwenhanced/mods/Rubber's Weapons Pack\RubbersWeaponsPack.ESP
+idx: 305	checksum: 9DBA0819	file: C:/TES3MP/mwenhanced/mods/Remiros' Uniques\Remiros' Uniques.ESP
+idx: 306	checksum: 148B96FF	file: C:/TES3MP/mwenhanced/mods/New Widowmaker\New Widowmaker.ESP
+idx: 307	checksum: 36AF80C7	file: C:/TES3MP/mwenhanced/mods/No More Stage Diving - Desele's Dancing Girls\NoMoreStageDiving.ESP
+idx: 308	checksum: 76972A02	file: C:/TES3MP/mwenhanced/mods/No More Stage Diving - Desele's Dancing Girls\NoMoreStageDiving_TalkativeGirls.ESP
+idx: 309	checksum: F3D567C4	file: C:/TES3MP/mwenhanced/mods/OAAB Creature Loot\OAAB Creature Loot.ESP
+idx: 310	checksum: F04CF675	file: C:/TES3MP/mwenhanced/mods/OAAB Leveled Creatures\OAAB Leveled Creatures.ESP
+idx: 311	checksum: 4BB3C1DF	file: C:/TES3MP/mwenhanced/mods/OAAB Leveled Lists\OAAB Leveled Lists.ESP
+idx: 312	checksum: FD2DA6EF	file: C:/TES3MP/mwenhanced/mods/OAAB Tel Mora\OAAB_Tel Mora_Female Guards.ESP
+idx: 313	checksum: 200E9F73	file: C:/TES3MP/mwenhanced/mods/Old Blue Fin\Old Blue Fin.ESP
+idx: 314	checksum: 27E2D681	file: C:/TES3MP/mwenhanced/mods/Portable Homes OpenMW script override\OpenMW - AshlanderTent.esp
+idx: 315	checksum: 4E00356C	file: C:/TES3MP/mwenhanced/mods/Vivec's Muatra\RC_VivecsMuatra.ESP
+idx: 316	checksum: E9E971D2	file: C:/TES3MP/mwenhanced/mods/RR Mod Series - Telvanni Lighthouse Tel Vos\RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP
+idx: 317	checksum: 3CD052E2	file: C:/TES3MP/mwenhanced/mods/RR Mod Series - Morrowind Statues Replacer\RR_Vivec_Statues_Eng.esp
+idx: 318	checksum: 43A90FFF	file: C:/TES3MP/mwenhanced/mods/Sorcerer of Alteration\Sorcerer of Alteration.ESP
+idx: 319	checksum: D3B8EF2B	file: C:/TES3MP/mwenhanced/mods/OAAB Dwemer Pavements\Trackless Grazeland OAAB Dwemer Pavements Patch.ESP
+idx: 320	checksum: 2351F291	file: C:/TES3MP/mwenhanced/mods/OAAB Shipwrecks\OAAB - Shipwrecks - TR Patch.ESP
+idx: 321	checksum: A116B257	file: C:/TES3MP/mwenhanced/mods/Solstheim - Tomb of the Snow Prince\TOTSP_TR_Preview.esp
+idx: 322	checksum: FEFC42A	file: C:/TES3MP/mwenhanced/mods/Vurts Groundcover for OpenMW\Vurt's Groundcover - Solstheim.esp
+idx: 323	checksum: 3BF52468	file: C:/TES3MP/mwenhanced/mods/Sobitur Facility\DA_Sobitur_YA_Compatibility.ESP
+idx: 324	checksum: C90905A7	file: C:/TES3MP/mwenhanced/mods/Devilish Vampire Overhaul\Devilish_Vampire_Overhaul_TR_Dialogue_Patch.ESP
+idx: 325	checksum: A14F32C5	file: C:/TES3MP/mwenhanced/mods/Darknut's Lighted Dwemer Towers\DN-Lighted_Dwemer_Towers_TR.ESP
+idx: 326	checksum: B3268150	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_AC_TR.esp
+idx: 327	checksum: FC36345F	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_AI_TR.esp
+idx: 328	checksum: 3FAD9EF4	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_AL_TR.esp
+idx: 329	checksum: DA65EDDB	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_AT_TR.esp
+idx: 330	checksum: 7DE43B86	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_BC_TR.esp
+idx: 331	checksum: 8358D3F6	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_GL_TR.esp
+idx: 332	checksum: 3F1BC4D6	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_WG_TR.esp
+idx: 333	checksum: 17799042	file: C:/TES3MP/mwenhanced/mods/Dubdilla Location Fix\Dubdilla Location Fix.ESP
+idx: 334	checksum: A902BCD7	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_GL.esp
+idx: 335	checksum: 1CA9ECF7	file: C:/TES3MP/mwenhanced/mods/Akulakhan's best chamber\ABCmod.ESP
+idx: 336	checksum: A3177A0D	file: C:/TES3MP/mwenhanced/mods/SM Mask of Dagoth Ur\sm_golden_mask.ESP
+idx: 337	checksum: 959827CF	file: C:/TES3MP/mwenhanced/mods/Official Plugins Naturalized\Adamantium Armor Naturalized.esp
+idx: 338	checksum: DA1F067	file: C:/TES3MP/mwenhanced/mods/Remiros' Groundcover\Rem_AL.esp
+idx: 339	checksum: DEDF1CC7	file: C:/TES3MP/mwenhanced/mods/VurtsGroundcoverTheAshlandsFixed\vurt's groundcover - the ashlands.esp
+idx: 340	checksum: 6A215B17	file: C:/TES3MP/mwenhanced/mods/Morrowind Go To Jail\Go To Jail.esp
+idx: 341	checksum: D38AFB6	file: C:/TES3MP/mwenhanced/mods/FMI - Sane Ordinators\FMI_SaneOrdinators.ESP
+idx: 342	checksum: 4A06E1FF	file: C:/TES3MP/mwenhanced/mods/Adventurer's Backpacks\Adventurer's backback.ESP
+idx: 343	checksum: ADDA8185	file: C:/TES3MP/mwenhanced/mods/Alchemical Hustle\AH_GMSTs.ESP
+idx: 344	checksum: 5EEF859	file: C:/TES3MP/mwenhanced/mods/Alchemical Hustle\AH_Ingredients.ESP
+idx: 345	checksum: 3EF1C410	file: C:/TES3MP/mwenhanced/mods/Alchemical Hustle\AH_Magic.ESP
+idx: 346	checksum: 8441BE6B	file: C:/TES3MP/mwenhanced/mods/Alchemical Hustle\AH_Potions.ESP
+idx: 347	checksum: 16E84D2F	file: C:/TES3MP/mwenhanced/mods/Divine Dagoths\Unique Dagoth Brandy & Amulet.ESP
+idx: 348	checksum: ACFAB83D	file: C:/TES3MP/mwenhanced/mods/Alchemical Hustle\AH_Toxicity_Default.ESP
+idx: 349	checksum: A99F4346	file: C:/TES3MP/mwenhanced/mods/Alchemical Hustle\AH_TR.ESP
+idx: 350	checksum: 7F4D1727	file: C:/TES3MP/mwenhanced/mods/Yet Another Guard Diversity Expanded Imperials\Yet Another Guard Diversity - Bloodmoon.ESP
+idx: 351	checksum: 79693EA7	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\Cephalopod armor_BCOM_patch.ESP
+idx: 352	checksum: DC2EA6C1	file: C:/TES3MP/mwenhanced/mods/Telvanni Cephalopod Armor\Telvanni Cephalopod Armor.esp
+idx: 353	checksum: A95EE2D7	file: C:/TES3MP/mwenhanced/mods/BCOM Patches\BCOM_OAAB_Pomegranates_patch.ESP
+idx: 354	checksum: D1D1F793	file: C:/TES3MP/mwenhanced/mods/PB_SignpostsRetexturedTR\PB_SignpostsRetexturedTR.esp
+idx: 355	checksum: BFDFEC4D	file: C:/TES3MP/mwenhanced/mods/Solstheim - Tomb of the Snow Prince\TOTSP_abotBoats.esp
+idx: 356	checksum: DB1F4BCC	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\Interior exterior flag reset.ESP
+idx: 357	checksum: 96845D2E	file: C:/TES3MP/mwenhanced/mods/Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul\Of Eggs and Dwarves.ESP
+idx: 358	checksum: B8BE6DEE	file: C:/TES3MP/mwenhanced/mods/Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul\OEAD_BCOM_Patch.ESP
+idx: 359	checksum: 66CFD90B	file: C:/TES3MP/mwenhanced/mods/Beautiful Cities of Morrowind\BCOM_White_Suran.ESP
+idx: 360	checksum: 2BB7FFB3	file: C:/TES3MP/mwenhanced/mods/Blighted Animals Retextured\BlightedAnimalsRetextured.esp
+idx: 361	checksum: F642B5F2	file: C:/TES3MP/mwenhanced/mods/Daedric Lord Armor Morrowind Edition\DaedricArmor.esp
+idx: 362	checksum: 7BA2F1E5	file: C:/TES3MP/mwenhanced/mods/Divine Dagoths\Bob's Diverse Dagoths.esp
+idx: 363	checksum: FA0B2114	file: C:/TES3MP/mwenhanced/mods/ncgdmw\ncgdmw.omwaddon
+idx: 364	checksum: AAAEBABA	file: C:/TES3MP/mwenhanced/mods/ncgdmw\ncgdmw.omwscripts
+idx: 365	checksum: FB36AB81	file: C:/TES3MP/mwenhanced/mods/MBSP Uncapped (OpenMW Lua) - NCGD Compat\MBSP_Uncapper.omwscripts
+idx: 366	checksum: 6F4E1334	file: C:/TES3MP/mwenhanced/mods/delta-addon\delta-merged.omwaddon
+idx: 367	checksum: 72C5BE74	file: C:/TES3MP/mwenhanced/mods/Apel's Asura Coast and Sheogorath Region Retexture - Fix\Apel's_Asura_Coast_Fix.esp
+[2024-10-01 11:18:47] [ERR]: Your plugins or their load order don't match the server's. A full comparison is included in your debug window and latest log file. In short, the following discrepancies have been found:
+
+30: checksum 0xF6D37256 doesn't match 0xDBE45095
+49: checksum 0xBA5A96EA doesn't match 0xEA87D8A9
+99: checksum 0x813BAB11 doesn't match 0xAC96D63D
+126: checksum 0x7F37BC34 doesn't match 0xAE7188BA
+169: checksum 0x309CE44E doesn't match 0xCBCD58F1
+170: checksum 0x49548B9D doesn't match 0x687D6671
+171: checksum 0xF52B1B43 doesn't match 0x852FAE33
+178: checksum 0x3A041D24 doesn't match 0xE795F21E
+179: checksum 0xF481380B doesn't match 0x8EE5B7F9
+187: checksum 0x27A904D4 doesn't match 0x534FE237
+205: checksum 0xEC2845D4 doesn't match 0xCCB10370
+216: checksum 0x51D0FB91 doesn't match 0xEAF25D9D
+217: checksum 0x548DE59B doesn't match 0x901FA1EF
+226: checksum 0x75CE83BE doesn't match 0xBBC74A98
+300: checksum 0x40B6373E doesn't match 0x073C6445
+339: checksum 0xDEDF1CC7 doesn't match 0x95F3AAAF
+[2024-10-01 11:18:47] [ERR]: Your current plugins are:                                                                          To join this server, use:
+name                                                                                 hash          name                                                                                 hash
+Morrowind.esm                                                                        0x7B6AF5B9    Morrowind.esm                                                                        0x7B6AF5B9    0x34282D67    
+Tribunal.esm                                                                         0xF481F334    Tribunal.esm                                                                         0xF481F334    0x211329EF    
+Bloodmoon.esm                                                                        0x43DD2132    Bloodmoon.esm                                                                        0x43DD2132    0x9EB62F26    
+Patch for Purists.esm                                                                0x81362B3F    Patch for Purists.esm                                                                0x81362B3F    
+Tamriel_Data.esm                                                                     0xC97D1C25    Tamriel_Data.esm                                                                     0xC97D1C25    
+OAAB_Data.esm                                                                        0xA9F95887    OAAB_Data.esm                                                                        0xA9F95887    
+Solstheim Tomb of The Snow Prince.esm                                                0x71933E2E    Solstheim Tomb of The Snow Prince.esm                                                0x71933E2E    
+TR_Mainland.esm                                                                      0x66218BCD    TR_Mainland.esm                                                                      0x66218BCD    
+Wares-base.esm                                                                       0xE9D95D3F    Wares-base.esm                                                                       0xE9D95D3F    
+F&F_base.esm                                                                         0x528E5A0B    F&F_base.esm                                                                         0x528E5A0B    
+Sky_Main.esm                                                                         0xF720879C    Sky_Main.esm                                                                         0xF720879C    
+distant_seafloor_2.00.esm                                                            0x1827C542    distant_seafloor_2.00.esm                                                            0x1827C542    
+Rise of House Telvanni.esm                                                           0x9840327D    Rise of House Telvanni.esm                                                           0x9840327D    
+Book Rotate.esm                                                                      0x8827AD77    Book Rotate.esm                                                                      0x8827AD77    
+Patch for Purists - Book Typos.ESP                                                   0x2E10D796    Patch for Purists - Book Typos.ESP                                                   0x2E10D796    
+Patch for Purists - Semi-Purist Fixes.ESP                                            0x7AC1FB23    Patch for Purists - Semi-Purist Fixes.ESP                                            0x7AC1FB23    
+Siege at Firemoth.esp                                                                0x7586EC9C    Siege at Firemoth.esp                                                                0x7586EC9C    
+Wares_TR_npcs.esp                                                                    0xDA06A998    Wares_TR_npcs.esp                                                                    0xDA06A998    
+Wares_TR_npcs_purist.esp                                                             0x2CB429A4    Wares_TR_npcs_purist.esp                                                             0x2CB429A4    
+hm-grass-mainland-GROUNDCOVER.esp                                                    0xFD4050B0    hm-grass-mainland-GROUNDCOVER.esp                                                    0xFD4050B0    
+hm-grass-mainland-CONTENT.esp                                                        0x7E12A7E7    hm-grass-mainland-CONTENT.esp                                                        0x7E12A7E7    
+TR_Hotfix.esp                                                                        0xD06456A5    TR_Hotfix.esp                                                                        0xD06456A5    
+Morrowind Anti-Cheese.ESP                                                            0x15E2A4E9    Morrowind Anti-Cheese.ESP                                                            0x15E2A4E9    
+Beautiful cities of morrowind.esp                                                    0xF84D1B7F    Beautiful cities of morrowind.esp                                                    0xF84D1B7F    
+hm-grass-vvardenfell-GROUNDCOVER.esp                                                 0x8A17FC94    hm-grass-vvardenfell-GROUNDCOVER.esp                                                 0x8A17FC94    
+hm-grass-vvardenfell-CONTENT.esp                                                     0xFA0BFFBB    hm-grass-vvardenfell-CONTENT.esp                                                     0xFA0BFFBB    
+FM - Unique Items v1.0.ESP                                                           0x5808AE76    FM - Unique Items v1.0.ESP                                                           0x5808AE76    
+FM - Unique Items v1.0 - PfP.ESP                                                     0x7A265BBA    FM - Unique Items v1.0 - PfP.ESP                                                     0x7A265BBA    
+OAAB_Saplings.ESP                                                                    0x4596D7B2    OAAB_Saplings.ESP                                                                    0x4596D7B2    
+LDM - Context Matters 1.7.ESP                                                        0x881A91B0    LDM - Context Matters 1.7.ESP                                                        0x881A91B0    
+Uvirith's Legacy_3.53.esp                                                            0xF6D37256    Uvirith's Legacy_3.53.esp                                                            0xDBE45095    
+AH_Toxicity_Hard.ESP                                                                 0x8FB9ABE0    AH_Toxicity_Hard.ESP                                                                 0x8FB9ABE0    
+AH_Toxicity_Spell_Effect.ESP                                                         0x0D1FDAF2    AH_Toxicity_Spell_Effect.ESP                                                         0x0D1FDAF2    
+Book Rotate - Tribunal v5.3.esp                                                      0x85B03B76    Book Rotate - Tribunal v5.3.esp                                                      0x85B03B76    
+Religions Elaborated.esp                                                             0xE84AC9D2    Religions Elaborated.esp                                                             0xE84AC9D2    
+Book Rotate - Morrowind v1.1.esp                                                     0xFAB79750    Book Rotate - Morrowind v1.1.esp                                                     0xFAB79750    
+New Bow of Shadows.esp                                                               0x54FAB076    New Bow of Shadows.esp                                                               0x54FAB076    
+New Bow of Shadows (MW).ESP                                                          0x0E6383E3    New Bow of Shadows (MW).ESP                                                          0x0E6383E3    
+New Lord's Mail.ESP                                                                  0x409CCEB0    New Lord's Mail.ESP                                                                  0x409CCEB0    
+New Lord's Mail (MW).ESP                                                             0x1B53033F    New Lord's Mail (MW).ESP                                                             0x1B53033F    
+Nocturnal Moths - TLD.ESP                                                            0x6BB056C3    Nocturnal Moths - TLD.ESP                                                            0x6BB056C3    
+Rem-TOTSP.esp                                                                        0x3AA88CD5    Rem-TOTSP.esp                                                                        0x3AA88CD5    
+Rem_Solstheim.esp                                                                    0x8D4D3D27    Rem_Solstheim.esp                                                                    0x8D4D3D27    
+Rem_VM_TR.esp                                                                        0x95530928    Rem_VM_TR.esp                                                                        0x95530928    
+Vurt's Groundcover - BC, AI, WG, GL.esp                                              0x622B1717    Vurt's Groundcover - BC, AI, WG, GL.esp                                              0x622B1717    
+Wares_SHOTN_npcs.esp                                                                 0x05836440    Wares_SHOTN_npcs.esp                                                                 0x05836440    
+Wares_SHOTN_npcs_purist.esp                                                          0xDF83F206    Wares_SHOTN_npcs_purist.esp                                                          0xDF83F206    
+Sky_Main_Grass.esp                                                                   0x69E256EE    Sky_Main_Grass.esp                                                                   0x69E256EE    
+Ttooth Ecology - Fish Addon.esp                                                      0x72ADC029    Ttooth Ecology - Fish Addon.esp                                                      0x72ADC029    
+Rem_WG.esp                                                                           0xBA5A96EA    Rem_WG.esp                                                                           0xEA87D8A9    
+TR_Preview.ESP                                                                       0x9BE77FFD    TR_Preview.ESP                                                                       0x9BE77FFD    
+TR_Travels_Preview_and_Mainland.ESP                                                  0xAC011B29    TR_Travels_Preview_and_Mainland.ESP                                                  0xAC011B29    
+Fabulous-Hlaalo-Manor-Fabulous-Clutter.ESP                                           0x669A1EC3    Fabulous-Hlaalo-Manor-Fabulous-Clutter.ESP                                           0x669A1EC3    
+Fabulous-Hlaalo-Manor-Fabulous-Fireplace.ESP                                         0xE74E193C    Fabulous-Hlaalo-Manor-Fabulous-Fireplace.ESP                                         0xE74E193C    
+Fabulous-Hlaalo-Manor-Fabulous-Guards.ESP                                            0xDB8EE249    Fabulous-Hlaalo-Manor-Fabulous-Guards.ESP                                            0xDB8EE249    
+CarryOnTweaks.omwaddon                                                               0x8796D008    CarryOnTweaks.omwaddon                                                               0x8796D008    
+ncgdmw_alt_start.omwaddon                                                            0x943FFA8B    ncgdmw_alt_start.omwaddon                                                            0x943FFA8B    
+ncgdmw_starwind.omwaddon                                                             0xBEAE51F6    ncgdmw_starwind.omwaddon                                                             0xBEAE51F6    
+PR Real Disposition Hard.esp                                                         0xAD83722C    PR Real Disposition Hard.esp                                                         0xAD83722C    
+PR Real Disposition Light.esp                                                        0x9DF84C58    PR Real Disposition Light.esp                                                        0x9DF84C58    
+PR Real Disposition Renegade.esp                                                     0xC418BAE6    PR Real Disposition Renegade.esp                                                     0xC418BAE6    
+TR_Travels.ESP                                                                       0xAC011B29    TR_Travels.ESP                                                                       0xAC011B29    
+TR_OldTravels.ESP                                                                    0xAC011B29    TR_OldTravels.ESP                                                                    0xAC011B29    
+Wares_TR_containers.esp                                                              0xB94A03B8    Wares_TR_containers.esp                                                              0xB94A03B8    
+Wares_SHOTN_traders.esp                                                              0x4E07F6F0    Wares_SHOTN_traders.esp                                                              0x4E07F6F0    
+Wares_SHOTN_containers.esp                                                           0xD954698F    Wares_SHOTN_containers.esp                                                           0xD954698F    
+Wares_lists_TD.ESP                                                                   0x390084AC    Wares_lists_TD.ESP                                                                   0x390084AC    
+Wares_lists_OAAB.ESP                                                                 0x66F98E8D    Wares_lists_OAAB.ESP                                                                 0x66F98E8D    
+Wares_lists_hold.ESP                                                                 0xAA7313C4    Wares_lists_hold.ESP                                                                 0xAA7313C4    
+Better Clothes Complete.ESP                                                          0x619578E0    Better Clothes Complete.ESP                                                          0x619578E0    
+AudiobooksOfMorrowind.ESP                                                            0x25A6E5D7    AudiobooksOfMorrowind.ESP                                                            0x25A6E5D7    
+BC_shoe_fix.esp                                                                      0x80FA190A    BC_shoe_fix.esp                                                                      0x80FA190A    
+BCOM_Tribal_Erabenimsun.ESP                                                          0x2FD4FD5F    BCOM_Tribal_Erabenimsun.ESP                                                          0x2FD4FD5F    
+Better Robes.ESP                                                                     0xD3B6F90F    Better Robes.ESP                                                                     0xD3B6F90F    
+Better Robes TR.esp                                                                  0xFBBF36FA    Better Robes TR.esp                                                                  0xFBBF36FA    
+BetterFatigueUsage.ESP                                                               0x66FBF079    BetterFatigueUsage.ESP                                                               0x66FBF079    
+ST_Books_Wares_rotate.ESP                                                            0x3161AE9A    ST_Books_Wares_rotate.ESP                                                            0x3161AE9A    
+ROHT_2_0_8.ESP                                                                       0x9705521E    ROHT_2_0_8.ESP                                                                       0x9705521E    
+Ttooth Ecology - Fish Addon Anthology.ESP                                            0x923E284C    Ttooth Ecology - Fish Addon Anthology.ESP                                            0x923E284C    
+Ttooth Ecology.esp                                                                   0x4E4ABD3A    Ttooth Ecology.esp                                                                   0x4E4ABD3A    
+TOTSP TD Content Integration.esp                                                     0xFF2598E3    TOTSP TD Content Integration.esp                                                     0xFF2598E3    
+Bloodmoon Rebalance.esp                                                              0x736900D5    Bloodmoon Rebalance.esp                                                              0x736900D5    
+TOTSP TD Content Integration - Spiders.esp                                           0x1D1D3ED6    TOTSP TD Content Integration - Spiders.esp                                           0x1D1D3ED6    
+TOTSP_Forceful_Travel_NPC_Override.ESP                                               0xD59BF370    TOTSP_Forceful_Travel_NPC_Override.ESP                                               0xD59BF370    
+TOTSP_Patch_for_Purists_4.0.2.esp                                                    0xA32E49BF    TOTSP_Patch_for_Purists_4.0.2.esp                                                    0xA32E49BF    
+Trueflame Reforged.ESP                                                               0x3457E1AC    Trueflame Reforged.ESP                                                               0x3457E1AC    
+Syc_AtHomeAlchemy - Finished.esp                                                     0x74A68FFE    Syc_AtHomeAlchemy - Finished.esp                                                     0x74A68FFE    
+Tamriel_Data_Graveyard.ESP                                                           0xE30E6907    Tamriel_Data_Graveyard.ESP                                                           0xE30E6907    
+The Dream is the Door.ESP                                                            0xB6EDAAA7    The Dream is the Door.ESP                                                            0xB6EDAAA7    
+Fabulous-Hlaalo-Manor-Ralens-Clutter.ESP                                             0x81AC1C6D    Fabulous-Hlaalo-Manor-Ralens-Clutter.ESP                                             0x81AC1C6D    
+Fabulous-Hlaalo-Manor.ESP                                                            0x47F9B884    Fabulous-Hlaalo-Manor.ESP                                                            0x47F9B884    
+Face of the Hortator.esp                                                             0x61C4517A    Face of the Hortator.esp                                                             0x61C4517A    
+Flies.ESP                                                                            0xA37464A8    Flies.ESP                                                                            0xA37464A8    
+FMI_CaiusBigPackage.ESP                                                              0x37EE6884    FMI_CaiusBigPackage.ESP                                                              0x37EE6884    
+ghastly gg.esp                                                                       0xDB448BD0    ghastly gg.esp                                                                       0xDB448BD0    
+Hircine's Artifacts.ESP                                                              0x55C84B82    Hircine's Artifacts.ESP                                                              0x55C84B82    
+HM_DDD_Strongholds_R_v1.0.esp                                                        0xF8A2D9F4    HM_DDD_Strongholds_R_v1.0.esp                                                        0xF8A2D9F4    
+distant seafloor TOTSP 2.2.2 patch.esp                                               0x2D62444E    distant seafloor TOTSP 2.2.2 patch.esp                                               0x2D62444E    
+OAAB_Grazelands.ESP                                                                  0x4B020F82    OAAB_Grazelands.ESP                                                                  0x4B020F82    
+Rem_AC.esp                                                                           0x813BAB11    Rem_AC.esp                                                                           0xAC96D63D    
+Holamayan Island.esp                                                                 0x06377194    Holamayan Island.esp                                                                 0x06377194    
+LowerFirstPersonSneak.ESP                                                            0x3D404A59    LowerFirstPersonSneak.ESP                                                            0x3D404A59    
+Missing snow armor.esp                                                               0xBE36209B    Missing snow armor.esp                                                               0xBE36209B    
+MultiMarkOMW_UL3.51Plugin.ESP                                                        0xC93F52DC    MultiMarkOMW_UL3.51Plugin.ESP                                                        0xC93F52DC    
+Ttooth Ecology - BMR Patch.ESP                                                       0xF0B69532    Ttooth Ecology - BMR Patch.ESP                                                       0xF0B69532    
+Ttooth Ecology - TR Patch.ESP                                                        0xA879D79C    Ttooth Ecology - TR Patch.ESP                                                        0xA879D79C    
+Beware the Sixth House.ESP                                                           0x7667BAFC    Beware the Sixth House.ESP                                                           0x7667BAFC    
+Bob's Diverse Dagoths - DNGDR - Hostile Gilvoth.esp                                  0xCF9BB57B    Bob's Diverse Dagoths - DNGDR - Hostile Gilvoth.esp                                  0xCF9BB57B    
+Bob's Diverse Dagoths - DNGDR.esp                                                    0xD84B403A    Bob's Diverse Dagoths - DNGDR.esp                                                    0xD84B403A    
+Bob's Diverse Dagoths - Hostile Gilvoth.esp                                          0x323B4DB6    Bob's Diverse Dagoths - Hostile Gilvoth.esp                                          0x323B4DB6    
+Cave Drips.ESP                                                                       0xCCE2719F    Cave Drips.ESP                                                                       0xCCE2719F    
+ComfyPillowForARestfulSleep.ESP                                                      0xA5916894    ComfyPillowForARestfulSleep.ESP                                                      0xA5916894    
+Containers Animated.esp                                                              0x1F5D2E2A    Containers Animated.esp                                                              0x1F5D2E2A    
+New Argonian Bodies - Clean.esp                                                      0x60A0EFFC    New Argonian Bodies - Clean.esp                                                      0x60A0EFFC    
+New Khajiit Bodies - Clean.esp                                                       0xCDAF8C51    New Khajiit Bodies - Clean.esp                                                       0xCDAF8C51    
+New Randagulf's Fists.ESP                                                            0x5A27DE18    New Randagulf's Fists.ESP                                                            0x5A27DE18    
+Nocturnal Moths - Vanilla.ESP                                                        0xD78D1AA1    Nocturnal Moths - Vanilla.ESP                                                        0xD78D1AA1    
+PB_SignpostsRetextured.esp                                                           0x8D187E6F    PB_SignpostsRetextured.esp                                                           0x8D187E6F    
+Pickpocket Rebalance 0.15 Mod and 100ohance max.ESP                                0x1B476F11    Pickpocket Rebalance 0.15 Mod and 100thance max.ESP                                0x1B476F11    
+Projectile Overhaul - All Modules.esp                                                0xA5FF2E9D    Projectile Overhaul - All Modules.esp                                                0xA5FF2E9D    
+Projectile Overhaul - Faster Magic Missiles.esp                                      0x8F8CF376    Projectile Overhaul - Faster Magic Missiles.esp                                      0x8F8CF376    
+Projectile Overhaul - Faster Projectiles.esp                                         0x40CC0EC5    Projectile Overhaul - Faster Projectiles.esp                                         0x40CC0EC5    
+Projectile Overhaul - Recovery Chance.esp                                            0x09E54F72    Projectile Overhaul - Recovery Chance.esp                                            0x09E54F72    
+Projectile Overhaul - Skyrim Style Weapons.esp                                       0xFEEC9282    Projectile Overhaul - Skyrim Style Weapons.esp                                       0xFEEC9282    
+Quill of Feyfolken 2.0.esp                                                           0x5C36349F    Quill of Feyfolken 2.0.esp                                                           0x5C36349F    
+Riekling Fix & Expansion.ESP                                                         0x413292F8    Riekling Fix & Expansion.ESP                                                         0x413292F8    
+Yet Another Guard Diversity - Full Cephalopod.ESP                                    0x7F37BC34    Yet Another Guard Diversity - Full Cephalopod.ESP                                    0xAE7188BA    
+RP_fireflies.ESP                                                                     0xC58B1C4F    RP_fireflies.ESP                                                                     0xC58B1C4F    
+Sanctus Shrine.esp                                                                   0x0126C741    Sanctus Shrine.esp                                                                   0x0126C741    
+SensibleBirthsigns.esp                                                               0x721DE1C9    SensibleBirthsigns.esp                                                               0x721DE1C9    
+SensibleRaces.esp                                                                    0x16867917    SensibleRaces.esp                                                                    0x16867917    
+TR_Factions.esp                                                                      0x0326A009    TR_Factions.esp                                                                      0x0326A009    
+Silt Strider Animation Restored.ESP                                                  0x769AEC97    Silt Strider Animation Restored.ESP                                                  0x769AEC97    
+SpeechcraftBalance.ESP                                                               0xD784593A    SpeechcraftBalance.ESP                                                               0xD784593A    
+The Madstone.ESP                                                                     0x8F81E6DA    The Madstone.ESP                                                                     0x8F81E6DA    
+Unique Jewelry Redone.ESP                                                            0x71B02DD7    Unique Jewelry Redone.ESP                                                            0x71B02DD7    
+Unique_CaveRats.ESP                                                                  0x0699C7B6    Unique_CaveRats.ESP                                                                  0x0699C7B6    
+Unique_Tavern_Signs_for_Tamriel_Rebuilt_v2.ESP                                       0xCEB19E48    Unique_Tavern_Signs_for_Tamriel_Rebuilt_v2.ESP                                       0xCEB19E48    
+EbonyMailReplacer.ESP                                                                0xDAF93FA4    EbonyMailReplacer.ESP                                                                0xDAF93FA4    
+Eltonbrand Replacer.ESP                                                              0xE4CBE1A1    Eltonbrand Replacer.ESP                                                              0xE4CBE1A1    
+ZEF_FocusMagicka_1.2.1.esp                                                           0x1A5C0821    ZEF_FocusMagicka_1.2.1.esp                                                           0x1A5C0821    
+action-camera-swap.omwscripts                                                        0xAE68E775    action-camera-swap.omwscripts                                                        0xAE68E775    
+AttendMe.omwscripts                                                                  0xB04614A9    AttendMe.omwscripts                                                                  0xB04614A9    
+CarryOn.omwaddon                                                                     0x71A15F30    CarryOn.omwaddon                                                                     0x71A15F30    
+CarryOnTweaks-FatigueOnly.omwaddon                                                   0xC17C9050    CarryOnTweaks-FatigueOnly.omwaddon                                                   0xC17C9050    
+Charge Version - Faction Bed Service v1.3.omwaddon                                   0xB39811F0    Charge Version - Faction Bed Service v1.3.omwaddon                                   0xB39811F0    
+Cinematic Boken DoF.omwscripts                                                       0xCD657A86    Cinematic Boken DoF.omwscripts                                                       0xCD657A86    
+DA_Sobitur_TRIngred_Compat.omwaddon                                                  0x44B8C466    DA_Sobitur_TRIngred_Compat.omwaddon                                                  0x44B8C466    
+Devilish_Vampire_Overhaul.omwscripts                                                 0x78AD41FF    Devilish_Vampire_Overhaul.omwscripts                                                 0x78AD41FF    
+EbonheartUnderworksMOMW-TO.omwaddon                                                  0x70707722    EbonheartUnderworksMOMW-TO.omwaddon                                                  0x70707722    
+momw-camera.omwscripts                                                               0x7D4E7F21    momw-camera.omwscripts                                                               0x7D4E7F21    
+mtrPQCR.omwaddon                                                                     0xFD980E48    mtrPQCR.omwaddon                                                                     0xFD980E48    
+Of Eggs and Dwarves.omwscripts                                                       0xA5EEBB64    Of Eggs and Dwarves.omwscripts                                                       0xA5EEBB64    
+Practical Necromancy.omwaddon                                                        0x8124FEED    Practical Necromancy.omwaddon                                                        0x8124FEED    
+LichNEFix.omwaddon                                                                   0x1FC52C27    LichNEFix.omwaddon                                                                   0x1FC52C27    
+pursuit_for_omw.omwscripts                                                           0xD2F8471A    pursuit_for_omw.omwscripts                                                           0xD2F8471A    
+Quill of Feyfolken 2.0-OpenMW-Patch.omwaddon                                         0xE3D87D47    Quill of Feyfolken 2.0-OpenMW-Patch.omwaddon                                         0xE3D87D47    
+SolCombatPack.omwscripts                                                             0x45E8F90A    SolCombatPack.omwscripts                                                             0x45E8F90A    
+TimescaleChange.omwaddon                                                             0x30C7F6C7    TimescaleChange.omwaddon                                                             0x30C7F6C7    
+UL_3.5_OpenMW_1.3_Add-on.omwaddon                                                    0x81420AE8    UL_3.5_OpenMW_1.3_Add-on.omwaddon                                                    0x81420AE8    
+UL_3.5_TR_21.01_Add-on.omwaddon                                                      0xDEE9107D    UL_3.5_TR_21.01_Add-on.omwaddon                                                      0xDEE9107D    
+PR Real Disposition Base.esp                                                         0x7ECFCA30    PR Real Disposition Base.esp                                                         0x7ECFCA30    
+1.2dagothspartyCLEANED.esp                                                           0x9DC0EE8A    1.2dagothspartyCLEANED.esp                                                           0x9DC0EE8A    
+Almalexia_Voicev1.esp                                                                0x4220016B    Almalexia_Voicev1.esp                                                                0x4220016B    
+F&F_TR.ESP                                                                           0x473782FA    F&F_TR.ESP                                                                           0x473782FA    
+Rem_RR_TR.esp                                                                        0x34CDB2FF    Rem_RR_TR.esp                                                                        0x34CDB2FF    
+Wares_TR_traders.esp                                                                 0x3EBCD346    Wares_TR_traders.esp                                                                 0x3EBCD346    
+BCOM_pathgrid_reset.ESP                                                              0x9809B0DD    BCOM_pathgrid_reset.ESP                                                              0x9809B0DD    
+Improved Inns Expanded.esp                                                           0x32A08C14    Improved Inns Expanded.esp                                                           0x32A08C14    
+OAAB - Shipwrecks.ESP                                                                0x309CE44E    OAAB - Shipwrecks.ESP                                                                0xCBCD58F1    
+OAAB - Foyada Mamaea.ESP                                                             0x49548B9D    OAAB - Foyada Mamaea.ESP                                                             0x687D6671    
+Rem_AI.esp                                                                           0xF52B1B43    Rem_AI.esp                                                                           0x852FAE33    
+Know Thy Ancestors.ESP                                                               0x4A619DB3    Know Thy Ancestors.ESP                                                               0x4A619DB3    
+OAAB Dwemer Pavements.ESP                                                            0x0652A91D    OAAB Dwemer Pavements.ESP                                                            0x0652A91D    
+Dark Brotherhood.ESP                                                                 0xFE58EC32    Dark Brotherhood.ESP                                                                 0xFE58EC32    
+Expansions Integrated.esp                                                            0xFC452E9D    Expansions Integrated.esp                                                            0xFC452E9D    
+Expansions Integrated - Fewer BM Creatures.esp                                       0xAEB62CC0    Expansions Integrated - Fewer BM Creatures.esp                                       0xAEB62CC0    
+Tribunal Integrated.esp                                                              0x4B339969    Tribunal Integrated.esp                                                              0x4B339969    
+Imperial Legion Expansion.esp                                                        0x3A041D24    Imperial Legion Expansion.esp                                                        0xE795F21E    
+Rem_BC.esp                                                                           0xF481380B    Rem_BC.esp                                                                           0x8EE5B7F9    
+Uncharted Artifacts.esp                                                              0xD7AC9A12    Uncharted Artifacts.esp                                                              0xD7AC9A12    
+mistify.ESP                                                                          0xB35F44D4    mistify.ESP                                                                          0xB35F44D4    
+Vivec_Voice_addon TRIBUNAL - Refreshed - OpenMW.esp                                  0xCE150FD5    Vivec_Voice_addon TRIBUNAL - Refreshed - OpenMW.esp                                  0xCE150FD5    
+Vivec_Voice_addon TRIBUNAL.esp                                                       0xB1EAABC7    Vivec_Voice_addon TRIBUNAL.esp                                                       0xB1EAABC7    
+Building Up Uvirith's Legacy1.1.ESP                                                  0xBA1B70B9    Building Up Uvirith's Legacy1.1.ESP                                                  0xBA1B70B9    
+Fast Eddie Fix v .0001.esp                                                           0x48EDEE17    Fast Eddie Fix v .0001.esp                                                           0x48EDEE17    
+The Rise of the Tribe Unmourned.esp                                                  0x4E682DA4    The Rise of the Tribe Unmourned.esp                                                  0x4E682DA4    
+Welcome to the Arena! v6.7.esp                                                       0x27A904D4    Welcome to the Arena! v6.7.esp                                                       0x534FE237    
+Shipyards of Vvardenfell.esp                                                         0xA3DD7B26    Shipyards of Vvardenfell.esp                                                         0xA3DD7B26    
+OAAB_Tel Mora.ESP                                                                    0xF05E5B49    OAAB_Tel Mora.ESP                                                                    0xF05E5B49    
+Immersive Mournhold.esp                                                              0x674CC8DD    Immersive Mournhold.esp                                                              0x674CC8DD    
+Siege at Firemoth Naturalized.esp                                                    0x68C36236    Siege at Firemoth Naturalized.esp                                                    0x68C36236    
+TracklessGrazeland.esp                                                               0x5522EBAE    TracklessGrazeland.esp                                                               0x5522EBAE    
+DA_Sobitur_Facility_Clean.ESP                                                        0xBEAF85ED    DA_Sobitur_Facility_Clean.ESP                                                        0xBEAF85ED    
+PCD_PFP_Compat.esp                                                                   0x59F391E7    PCD_PFP_Compat.esp                                                                   0x59F391E7    
+Imperial Factions.ESP                                                                0xE603A548    Imperial Factions.ESP                                                                0xE603A548    
+Baan_Binif.ESP                                                                       0x74BC8F35    Baan_Binif.ESP                                                                       0x74BC8F35    
+Know Thy Ancestors - TR.ESP                                                          0xA9FF1364    Know Thy Ancestors - TR.ESP                                                          0xA9FF1364    
+Rem_GL_Trackless_GL.esp                                                              0x69AA0F32    Rem_GL_Trackless_GL.esp                                                              0x69AA0F32    
+NPC_Schedule(beta).esp                                                               0x63579F24    NPC_Schedule(beta).esp                                                               0x63579F24    
+OAAB - Tombs and Towers.ESP                                                          0x8827C3F3    OAAB - Tombs and Towers.ESP                                                          0x8827C3F3    
+TR_Firemoth_Vanilla_patch.esp                                                        0x398CCCC1    TR_Firemoth_Vanilla_patch.esp                                                        0x398CCCC1    
+Dagoth Ur Voice Addon.esp                                                            0xAB4FDEA8    Dagoth Ur Voice Addon.esp                                                            0xAB4FDEA8    
+Dialog_Saved.ESP                                                                     0x1AEAF7BE    Dialog_Saved.ESP                                                                     0x1AEAF7BE    
+DN-Lighted_Dwemer_Towers.ESP                                                         0x43F22D61    DN-Lighted_Dwemer_Towers.ESP                                                         0x43F22D61    
+Concept_Arts_plantations.esp                                                         0xEC2845D4    Concept_Arts_plantations.esp                                                         0xCCB10370    
+Ttooth's Missing NPCs - Nolus.ESP                                                    0xD4D9798D    Ttooth's Missing NPCs - Nolus.ESP                                                    0xD4D9798D    
+Magical Lights.ESP                                                                   0xD8461403    Magical Lights.ESP                                                                   0xD8461403    
+Ttooth's Missing NPCs - No Nolus.ESP                                                 0xC78167EE    Ttooth's Missing NPCs - No Nolus.ESP                                                 0xC78167EE    
+FMI_ServiceRefusal_Contraband.ESP                                                    0xC4DB6455    FMI_ServiceRefusal_Contraband.ESP                                                    0xC4DB6455    
+GITD_Telvanni_Dormers.ESP                                                            0xAADA2AD6    GITD_Telvanni_Dormers.ESP                                                            0xAADA2AD6    
+OAAB - The Ashen Divide.ESP                                                          0x0FE9C8E6    OAAB - The Ashen Divide.ESP                                                          0x0FE9C8E6    
+PR Perfect Scum.esp                                                                  0x2B941CAA    PR Perfect Scum.esp                                                                  0x2B941CAA    
+Devilish_Vampire_Overhaul.ESP                                                        0x5A0FC32C    Devilish_Vampire_Overhaul.ESP                                                        0x5A0FC32C    
+BCOM_Suran Expansion.ESP                                                             0xD7E075E6    BCOM_Suran Expansion.ESP                                                             0xD7E075E6    
+BCOM+GhastlyGG+DynamicDistantBuildingsPatch.esp                                      0xB90DBD25    BCOM+GhastlyGG+DynamicDistantBuildingsPatch.esp                                      0xB90DBD25    
+Ebonheart_Underworks.esp                                                             0x51D0FB91    Ebonheart_Underworks.esp                                                             0xEAF25D9D    
+Velothi Wall Art.ESP                                                                 0x548DE59B    Velothi Wall Art.ESP                                                                 0x901FA1EF    
+Astrologians Guild.esp                                                               0x73C8FA9B    Astrologians Guild.esp                                                               0x73C8FA9B    
+No more Dr Nerevarine.ESP                                                            0xB4945E88    No more Dr Nerevarine.ESP                                                            0xB4945E88    
+Hospitality_Papers_Expanded_v2.7.esp                                                 0x571E5607    Hospitality_Papers_Expanded_v2.7.esp                                                 0x571E5607    
+Tel_Eurus.esp                                                                        0xD24455D6    Tel_Eurus.esp                                                                        0xD24455D6    
+Yet Another Guard Diversity - TR.ESP                                                 0xDC028990    Yet Another Guard Diversity - TR.ESP                                                 0xDC028990    
+MaiqMainland.esp                                                                     0xC3F9DA6E    MaiqMainland.esp                                                                     0xC3F9DA6E    
+NighttimeDoorLocks-LD 1.1b.esp                                                       0x8E3C7564    NighttimeDoorLocks-LD 1.1b.esp                                                       0x8E3C7564    
+BCOM - Taller Lighthouse.ESP                                                         0x24F17638    BCOM - Taller Lighthouse.ESP                                                         0x24F17638    
+Store Entrance Chimes - Alt Ver.ESP                                                  0x75CE83BE    Store Entrance Chimes - Alt Ver.ESP                                                  0xBBC74A98    
+HM_DDD_Ghostfence_v1.0.esp                                                           0xE728D806    HM_DDD_Ghostfence_v1.0.esp                                                           0xE728D806    
+TR_BCOM_Patch.ESP                                                                    0xB66A2454    TR_BCOM_Patch.ESP                                                                    0xB66A2454    
+wandering_merchants.esp                                                              0xBCB8C9F0    wandering_merchants.esp                                                              0xBCB8C9F0    
+AndranoTombRemastered.esp                                                            0x355A7BE3    AndranoTombRemastered.esp                                                            0x355A7BE3    
+FMI_Nice_to_Meet_You.ESP                                                             0x02EA743F    FMI_Nice_to_Meet_You.ESP                                                             0x02EA743F    
+Cantons_on_the_Global_Map_v1.1.esp                                                   0xE9525273    Cantons_on_the_Global_Map_v1.1.esp                                                   0xE9525273    
+SecretsOfTheCrystalCity.esp                                                          0x5BAF86E6    SecretsOfTheCrystalCity.esp                                                          0x5BAF86E6    
+BCOM_OpenMW_plazas.ESP                                                               0x6CB5B853    BCOM_OpenMW_plazas.ESP                                                               0x6CB5B853    
+F&F_BCoM.ESP                                                                         0xE7961003    F&F_BCoM.ESP                                                                         0xE7961003    
+Mage Robes.ESP                                                                       0xCFF717EC    Mage Robes.ESP                                                                       0xCFF717EC    
+Idle Talk.ESP                                                                        0x6A50C1B9    Idle Talk.ESP                                                                        0x6A50C1B9    
+BCOM_Sadrith_Mora_dock_expanded.ESP                                                  0xDEEA47BF    BCOM_Sadrith_Mora_dock_expanded.ESP                                                  0xDEEA47BF    
+BCOM_Vanilla Trees_Hlaalu_Plaza.ESP                                                  0xCEC8C172    BCOM_Vanilla Trees_Hlaalu_Plaza.ESP                                                  0xCEC8C172    
+Container Ownership.ESP                                                              0xBEA8F1B6    Container Ownership.ESP                                                              0xBEA8F1B6    
+Guar stables of Vivec.ESP                                                            0x310D25B9    Guar stables of Vivec.ESP                                                            0x310D25B9    
+Bounty Hunter Assignments.ESP                                                        0x7ECC86A8    Bounty Hunter Assignments.ESP                                                        0x7ECC86A8    
+The Grove of Ben'Abi.ESP                                                             0x443F69EF    The Grove of Ben'Abi.ESP                                                             0x443F69EF    
+OAAB Pomegranates.ESP                                                                0x87032B7B    OAAB Pomegranates.ESP                                                                0x87032B7B    
+Clear Your Name.esp                                                                  0xB335B373    Clear Your Name.esp                                                                  0xB335B373    
+God of Worms.esp                                                                     0x071D9760    God of Worms.esp                                                                     0x071D9760    
+MultiMarkOMW-1.3-TR2101.esp                                                          0x3DD96453    MultiMarkOMW-1.3-TR2101.esp                                                          0x3DD96453    
+Book Rotate - Bloodmoon v5.3.esp                                                     0xCA18430D    Book Rotate - Bloodmoon v5.3.esp                                                     0xCA18430D    
+BCOM_Canal_01.ESP                                                                    0xE9FA40C3    BCOM_Canal_01.ESP                                                                    0xE9FA40C3    
+BCOM_PfP_patch.ESP                                                                   0xBDCDC784    BCOM_PfP_patch.ESP                                                                   0xBDCDC784    
+Vurt's Groundcover - Reeds.esp                                                       0x7E7F24B4    Vurt's Groundcover - Reeds.esp                                                       0x7E7F24B4    
+imperial_skirt.esp                                                                   0xAA69856A    imperial_skirt.esp                                                                   0xAA69856A    
+Justice4Khartag.ESP                                                                  0x831B4C35    Justice4Khartag.ESP                                                                  0x831B4C35    
+Master Index Naturalized.esp                                                         0x09AE1F55    Master Index Naturalized.esp                                                         0x09AE1F55    
+Clean_imperial_skirt.esp                                                             0xAA69856A    Clean_imperial_skirt.esp                                                             0xAA69856A    
+LPFR_TSAFW.esp                                                                       0x935A308D    LPFR_TSAFW.esp                                                                       0x935A308D    
+DA_Sobitur_Repurposed_1.ESP                                                          0x4056F0C3    DA_Sobitur_Repurposed_1.ESP                                                          0x4056F0C3    
+DA_Sobitur_TRIngred_Compat.ESP                                                       0x4D2E375F    DA_Sobitur_TRIngred_Compat.ESP                                                       0x4D2E375F    
+New Ilunibi.ESP                                                                      0xECC5C7C7    New Ilunibi.ESP                                                                      0xECC5C7C7    
+Library of Vivec Overhaul - Full.esp                                                 0xA36D65C5    Library of Vivec Overhaul - Full.esp                                                 0xA36D65C5    
+fargoths_mountain_hut.esp                                                            0x973B09EA    fargoths_mountain_hut.esp                                                            0x973B09EA    
+Expansion Delay.ESP                                                                  0xC8424096    Expansion Delay.ESP                                                                  0xC8424096    
+Area Effect Arrows Naturalized.esp                                                   0x0A67F98A    Area Effect Arrows Naturalized.esp                                                   0x0A67F98A    
+WealthWithinMeasure_TR_v1.25.esp                                                     0x34A450D9    WealthWithinMeasure_TR_v1.25.esp                                                     0x34A450D9    
+WealthWithinMeasure_v1.25.esp                                                        0xE99D9B66    WealthWithinMeasure_v1.25.esp                                                        0xE99D9B66    
+On the Move.esp                                                                      0x6BE0AB8E    On the Move.esp                                                                      0x6BE0AB8E    
+On the Move_nom.esp                                                                  0xC9E62C44    On the Move_nom.esp                                                                  0xC9E62C44    
+Helm of Tohan Naturalized.esp                                                        0x502BFB2E    Helm of Tohan Naturalized.esp                                                        0x502BFB2E    
+Aspect of Azura.ESP                                                                  0x3CE24C81    Aspect of Azura.ESP                                                                  0x3CE24C81    
+BCOM_rotating_planets_GG.ESP                                                         0xEC22A700    BCOM_rotating_planets_GG.ESP                                                         0xEC22A700    
+Census_and_Excise_Office_Faction.ESP                                                 0x7CAFF629    Census_and_Excise_Office_Faction.ESP                                                 0x7CAFF629    
+Berandas Overhaul.esp                                                                0x37CD7B00    Berandas Overhaul.esp                                                                0x37CD7B00    
+Better Skulls.ESP                                                                    0x7791AC2C    Better Skulls.ESP                                                                    0x7791AC2C    
+tribunal rebalance.ESP                                                               0x43F7B5C3    tribunal rebalance.ESP                                                               0x43F7B5C3    
+The_corprusarium_Exp.ESP                                                             0x3C656380    The_corprusarium_Exp.ESP                                                             0x3C656380    
+wandering_umbra.ESP                                                                  0xB7B5AA22    wandering_umbra.ESP                                                                  0xB7B5AA22    
+Umbra, Blademaster.ESP                                                               0x2D873D22    Umbra, Blademaster.ESP                                                               0x2D873D22    
+Finished Morrowind - CORE PATCH - Part 4 - More Audio Dialogue for Service NPCs.ESP  0xE47AE6B6    Finished Morrowind - CORE PATCH - Part 4 - More Audio Dialogue for Service NPCs.ESP  0xE47AE6B6    
+FMI_#NotAllDunmer.ESP                                                                0x57603D1B    FMI_#NotAllDunmer.ESP                                                                0x57603D1B    
+Frozen in Time.esp                                                                   0xFE72D434    Frozen in Time.esp                                                                   0xFE72D434    
+TheForgottenShields - Artifacts_NG.esp                                               0x163165B4    TheForgottenShields - Artifacts_NG.esp                                               0x163165B4    
+TheForgottenShields - Artifacts_VN.esp                                               0xE0868910    TheForgottenShields - Artifacts_VN.esp                                               0xE0868910    
+GITD_WL_RR_Interiors.esp                                                             0xC783DECC    GITD_WL_RR_Interiors.esp                                                             0xC783DECC    
+Glowing_Mines.ESP                                                                    0x8665945B    Glowing_Mines.ESP                                                                    0x8665945B    
+gondoliers_license.esp                                                               0x184613D6    gondoliers_license.esp                                                               0x184613D6    
+Greetings for No Lore.esp                                                            0xD616F5C2    Greetings for No Lore.esp                                                            0xD616F5C2    
+HM_DDD_Strongholds_H_v1.0.esp                                                        0x01BE5162    HM_DDD_Strongholds_H_v1.0.esp                                                        0x01BE5162    
+HM_DDD_Strongholds_T_v1.0.esp                                                        0xF1C8568A    HM_DDD_Strongholds_T_v1.0.esp                                                        0xF1C8568A    
+Manor Banners.ESP                                                                    0xF85AC71A    Manor Banners.ESP                                                                    0xF85AC71A    
+mtrDwemerPuzzleBoxRandomizer.ESP                                                     0xE17D2F8C    mtrDwemerPuzzleBoxRandomizer.ESP                                                     0xE17D2F8C    
+MultiMarkOMW-MysticismBalance-1.1.esp                                                0x844EDF81    MultiMarkOMW-MysticismBalance-1.1.esp                                                0x844EDF81    
+MultiMarkOMW_SkyPlugin2021_01_11_(v21.01a).ESP                                       0x95D32D78    MultiMarkOMW_SkyPlugin2021_01_11_(v21.01a).ESP                                       0x95D32D78    
+Nasty Camonna Tong.esp                                                               0x07CD0DEE    Nasty Camonna Tong.esp                                                               0x07CD0DEE    
+Concept art palace.ESP                                                               0xA336E9FE    Concept art palace.ESP                                                               0xA336E9FE    
+Vivec Palace Illuminated - REDUX.ESP                                                 0xC2253538    Vivec Palace Illuminated - REDUX.ESP                                                 0xC2253538    
+Meteorite Ministry Palace - Higher.ESP                                               0x222CDDF1    Meteorite Ministry Palace - Higher.ESP                                               0x222CDDF1    
+Meteorite Ministry Temple - Higher.ESP                                               0x72D34615    Meteorite Ministry Temple - Higher.ESP                                               0x72D34615    
+Meteorite Ministry Palace.ESP                                                        0x24F3976C    Meteorite Ministry Palace.ESP                                                        0x24F3976C    
+Meteorite Ministry Temple.ESP                                                        0xCBC9FA7E    Meteorite Ministry Temple.ESP                                                        0xCBC9FA7E    
+CAP Dome.esp                                                                         0x40B6373E    CAP Dome.esp                                                                         0x073C6445    
+Samarys Ancestral Tomb Expanded.esp                                                  0x2E427B40    Samarys Ancestral Tomb Expanded.esp                                                  0x2E427B40    
+DA_Sobitur_Quest_Part_2 Clean.esp                                                    0xA5081F8F    DA_Sobitur_Quest_Part_2 Clean.esp                                                    0xA5081F8F    
+DA_Sobitur_Quest_Part_1 Clean.esp                                                    0xE7C73868    DA_Sobitur_Quest_Part_1 Clean.esp                                                    0xE7C73868    
+RubbersWeaponsPack.ESP                                                               0x6A2BE32D    RubbersWeaponsPack.ESP                                                               0x6A2BE32D    
+Remiros' Uniques.ESP                                                                 0x9DBA0819    Remiros' Uniques.ESP                                                                 0x9DBA0819    
+New Widowmaker.ESP                                                                   0x148B96FF    New Widowmaker.ESP                                                                   0x148B96FF    
+NoMoreStageDiving.ESP                                                                0x36AF80C7    NoMoreStageDiving.ESP                                                                0x36AF80C7    
+NoMoreStageDiving_TalkativeGirls.ESP                                                 0x76972A02    NoMoreStageDiving_TalkativeGirls.ESP                                                 0x76972A02    
+OAAB Creature Loot.ESP                                                               0xF3D567C4    OAAB Creature Loot.ESP                                                               0xF3D567C4    
+OAAB Leveled Creatures.ESP                                                           0xF04CF675    OAAB Leveled Creatures.ESP                                                           0xF04CF675    
+OAAB Leveled Lists.ESP                                                               0x4BB3C1DF    OAAB Leveled Lists.ESP                                                               0x4BB3C1DF    
+OAAB_Tel Mora_Female Guards.ESP                                                      0xFD2DA6EF    OAAB_Tel Mora_Female Guards.ESP                                                      0xFD2DA6EF    
+Old Blue Fin.ESP                                                                     0x200E9F73    Old Blue Fin.ESP                                                                     0x200E9F73    
+OpenMW - AshlanderTent.esp                                                           0x27E2D681    OpenMW - AshlanderTent.esp                                                           0x27E2D681    
+RC_VivecsMuatra.ESP                                                                  0x4E00356C    RC_VivecsMuatra.ESP                                                                  0x4E00356C    
+RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP                                               0xE9E971D2    RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP                                               0xE9E971D2    
+RR_Vivec_Statues_Eng.esp                                                             0x3CD052E2    RR_Vivec_Statues_Eng.esp                                                             0x3CD052E2    
+Sorcerer of Alteration.ESP                                                           0x43A90FFF    Sorcerer of Alteration.ESP                                                           0x43A90FFF    
+Trackless Grazeland OAAB Dwemer Pavements Patch.ESP                                  0xD3B8EF2B    Trackless Grazeland OAAB Dwemer Pavements Patch.ESP                                  0xD3B8EF2B    
+OAAB - Shipwrecks - TR Patch.ESP                                                     0x2351F291    OAAB - Shipwrecks - TR Patch.ESP                                                     0x2351F291    
+TOTSP_TR_Preview.esp                                                                 0xA116B257    TOTSP_TR_Preview.esp                                                                 0xA116B257    
+Vurt's Groundcover - Solstheim.esp                                                   0x0FEFC42A    Vurt's Groundcover - Solstheim.esp                                                   0x0FEFC42A    
+DA_Sobitur_YA_Compatibility.ESP                                                      0x3BF52468    DA_Sobitur_YA_Compatibility.ESP                                                      0x3BF52468    
+Devilish_Vampire_Overhaul_TR_Dialogue_Patch.ESP                                      0xC90905A7    Devilish_Vampire_Overhaul_TR_Dialogue_Patch.ESP                                      0xC90905A7    
+DN-Lighted_Dwemer_Towers_TR.ESP                                                      0xA14F32C5    DN-Lighted_Dwemer_Towers_TR.ESP                                                      0xA14F32C5    
+Rem_AC_TR.esp                                                                        0xB3268150    Rem_AC_TR.esp                                                                        0xB3268150    
+Rem_AI_TR.esp                                                                        0xFC36345F    Rem_AI_TR.esp                                                                        0xFC36345F    
+Rem_AL_TR.esp                                                                        0x3FAD9EF4    Rem_AL_TR.esp                                                                        0x3FAD9EF4    
+Rem_AT_TR.esp                                                                        0xDA65EDDB    Rem_AT_TR.esp                                                                        0xDA65EDDB    
+Rem_BC_TR.esp                                                                        0x7DE43B86    Rem_BC_TR.esp                                                                        0x7DE43B86    
+Rem_GL_TR.esp                                                                        0x8358D3F6    Rem_GL_TR.esp                                                                        0x8358D3F6    
+Rem_WG_TR.esp                                                                        0x3F1BC4D6    Rem_WG_TR.esp                                                                        0x3F1BC4D6    
+Dubdilla Location Fix.ESP                                                            0x17799042    Dubdilla Location Fix.ESP                                                            0x17799042    
+Rem_GL.esp                                                                           0xA902BCD7    Rem_GL.esp                                                                           0xA902BCD7    
+ABCmod.ESP                                                                           0x1CA9ECF7    ABCmod.ESP                                                                           0x1CA9ECF7    
+sm_golden_mask.ESP                                                                   0xA3177A0D    sm_golden_mask.ESP                                                                   0xA3177A0D    
+Adamantium Armor Naturalized.esp                                                     0x959827CF    Adamantium Armor Naturalized.esp                                                     0x959827CF    
+Rem_AL.esp                                                                           0x0DA1F067    Rem_AL.esp                                                                           0x0DA1F067    
+vurt's groundcover - the ashlands.esp                                                0xDEDF1CC7    vurt's groundcover - the ashlands.esp                                                0x95F3AAAF    
+Go To Jail.esp                                                                       0x6A215B17    Go To Jail.esp                                                                       0x6A215B17    
+FMI_SaneOrdinators.ESP                                                               0x0D38AFB6    FMI_SaneOrdinators.ESP                                                               0x0D38AFB6    
+Adventurer's backback.ESP                                                            0x4A06E1FF    Adventurer's backback.ESP                                                            0x4A06E1FF    
+AH_GMSTs.ESP                                                                         0xADDA8185    AH_GMSTs.ESP                                                                         0xADDA8185    
+AH_Ingredients.ESP                                                                   0x05EEF859    AH_Ingredients.ESP                                                                   0x05EEF859    
+AH_Magic.ESP                                                                         0x3EF1C410    AH_Magic.ESP                                                                         0x3EF1C410    
+AH_Potions.ESP                                                                       0x8441BE6B    AH_Potions.ESP                                                                       0x8441BE6B    
+Unique Dagoth Brandy & Amulet.ESP                                                    0x16E84D2F    Unique Dagoth Brandy & Amulet.ESP                                                    0x16E84D2F    
+AH_Toxicity_Default.ESP                                                              0xACFAB83D    AH_Toxicity_Default.ESP                                                              0xACFAB83D    
+AH_TR.ESP                                                                            0xA99F4346    AH_TR.ESP                                                                            0xA99F4346    
+Yet Another Guard Diversity - Bloodmoon.ESP                                          0x7F4D1727    Yet Another Guard Diversity - Bloodmoon.ESP                                          0x7F4D1727    
+Cephalopod armor_BCOM_patch.ESP                                                      0x79693EA7    Cephalopod armor_BCOM_patch.ESP                                                      0x79693EA7    
+Telvanni Cephalopod Armor.esp                                                        0xDC2EA6C1    Telvanni Cephalopod Armor.esp                                                        0xDC2EA6C1    
+BCOM_OAAB_Pomegranates_patch.ESP                                                     0xA95EE2D7    BCOM_OAAB_Pomegranates_patch.ESP                                                     0xA95EE2D7    
+PB_SignpostsRetexturedTR.esp                                                         0xD1D1F793    PB_SignpostsRetexturedTR.esp                                                         0xD1D1F793    
+TOTSP_abotBoats.esp                                                                  0xBFDFEC4D    TOTSP_abotBoats.esp                                                                  0xBFDFEC4D    
+Interior exterior flag reset.ESP                                                     0xDB1F4BCC    Interior exterior flag reset.ESP                                                     0xDB1F4BCC    
+Of Eggs and Dwarves.ESP                                                              0x96845D2E    Of Eggs and Dwarves.ESP                                                              0x96845D2E    
+OEAD_BCOM_Patch.ESP                                                                  0xB8BE6DEE    OEAD_BCOM_Patch.ESP                                                                  0xB8BE6DEE    
+BCOM_White_Suran.ESP                                                                 0x66CFD90B    BCOM_White_Suran.ESP                                                                 0x66CFD90B    
+BlightedAnimalsRetextured.esp                                                        0x2BB7FFB3    BlightedAnimalsRetextured.esp                                                        0x2BB7FFB3    
+DaedricArmor.esp                                                                     0xF642B5F2    DaedricArmor.esp                                                                     0xF642B5F2    
+Bob's Diverse Dagoths.esp                                                            0x7BA2F1E5    Bob's Diverse Dagoths.esp                                                            0x7BA2F1E5    
+ncgdmw.omwaddon                                                                      0xFA0B2114    ncgdmw.omwaddon                                                                      0xFA0B2114    
+ncgdmw.omwscripts                                                                    0xAAAEBABA    ncgdmw.omwscripts                                                                    0xAAAEBABA    
+MBSP_Uncapper.omwscripts                                                             0xFB36AB81    MBSP_Uncapper.omwscripts                                                             0xFB36AB81    
+delta-merged.omwaddon                                                                0x6F4E1334    delta-merged.omwaddon                                                                0x6F4E1334    
+Apel's_Asura_Coast_Fix.esp                                                           0x72C5BE74    Apel's_Asura_Coast_Fix.esp                                                           0x72C5BE74    
+[2024-10-01 11:18:53] [INFO]: tes3mp stopped
